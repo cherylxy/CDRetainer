@@ -17,7 +17,7 @@ nohup python CDRetainer.py &
 # Then get Result in `./data`
 ```
 
-### dependency
+### Dependency
 + [Python](http://www.python.org/)
 + urllib2
 + ConfigParser
