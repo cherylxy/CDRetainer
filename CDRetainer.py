@@ -1,15 +1,11 @@
 # -*- coding: gbk -*-
 
-from goose import Goose
 from bs4 import BeautifulSoup
 from multiprocessing import Pool
-from goose.text import StopWordsChinese
 
 import os
 import sys
 import time
-import json
-import random
 import logMod
 import cPickle
 import urllib2
@@ -19,14 +15,11 @@ l = logMod.logMod()
 config = ConfigParser.ConfigParser()  
 config.read("./conf/Basic.conf") 
 path_home = config.get("path", "path_home")
+path_list = config.get("path", "path_list")
 exec_cyctime = config.getint("para", "EXEC_CYCLETIME")
 
-filepath = ["new_East.txt","new_Sina.txt","All.txt"]
-TestPassUrl = [ \
-"http://data.eastmoney.com/report/", \
-"http://vip.stock.finance.sina.com.cn/q/go.php/vReport_List/kind/search/index.phtml?p=1", \
-"http://www.baidu.com"]
-
+filepath = [line.strip().split('@')[0] for line in file(path_list) ]
+TestPassUrl = [line.strip().split('@')[1] for line in file(path_list) ]
 
 def test_proxy(ip, port, target):
     try:
@@ -131,7 +124,7 @@ def Get_P360():
     return retlist
     
     
-def Get_YDLN():
+def Get_YDLN(): # Broken Soup
     url = ""
     head = "http://www.youdaili.net/Daili/guonei/"
     docu = Getdoc(head)
@@ -168,35 +161,39 @@ def Get_CZ88():
                     retlist.append(pxy)
     return retlist
 
+
+def test_Vars():
+    print filepath, TestPassUrl
     
 if __name__ == '__main__':
     LastTime = -1
+    # test_Vars()
     while True:
         CurrentTime = time.time()
         if (CurrentTime - LastTime > exec_cyctime):
             LastTime = CurrentTime
             pxylist = []
-            try :
+            try : # www.xicidaili.com
                 pxylist.extend(Get_XICI())
                 l.Notice("XICI Finished.")
             except Exception,ex :
                 l.Warning("XICI Failed for %s" % str(ex))
-            try :
+            try : # www.kuaidaili.com
                 pxylist.extend(Get_KUAI())
                 l.Notice("KUAI Finished.")
             except Exception,ex :
                 l.Warning("KUAI Failed for %s" % str(ex))
-            try :
+            try : # www.proxy360.cn
                 pxylist.extend(Get_P360())
                 l.Notice("P360 Finished.")
             except Exception,ex :
                 l.Warning("P360 Failed for %s" % str(ex))   
-            try :
+            try : # www.cz88.net
                 pxylist.extend(Get_CZ88())
                 l.Notice("CZ88 Finished.")
             except Exception,ex :
                 l.Warning("CZ88 Failed for %s" % str(ex))  
-            # pxylist.extend(Get_YDLN())
+            
             cnt = {}
             lenT,lenP = len(TestPassUrl), len(pxylist)
             for idx in xrange(0, lenT):
@@ -210,3 +207,4 @@ if __name__ == '__main__':
             l.Notice("Crawl Finished, Result Below:")
             for idx in xrange(0, lenT):
                 l.Notice("[Target %s] %s(%s) @ %s\n" % (str(idx), str(cnt[idx]), str(cnt[idx]/lenP), TestPassUrl[idx], ))        
+                

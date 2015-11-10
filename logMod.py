@@ -3,7 +3,6 @@
 import os
 import sys
 import time
-import urllib2
 import logging 
 import ConfigParser
 

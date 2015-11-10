@@ -1,4 +1,3 @@
-http://www.xicidaili.com/
-http://www.proxy360.cn/Proxy
-http://www.youdaili.net/
-http://www.cz88.net/proxy/
+East.txt@http://data.eastmoney.com/report/
+Sina.txt@http://vip.stock.finance.sina.com.cn/q/go.php/vReport_List/kind/search/index.phtml?p=1
+Pass.txt@http://www.baidu.com
