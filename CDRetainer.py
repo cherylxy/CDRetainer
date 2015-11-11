@@ -206,5 +206,9 @@ if __name__ == '__main__':
                         cnt[idx] += 1
             l.Notice("Crawl Finished, Result Below:")
             for idx in xrange(0, lenT):
-                l.Notice("[Target %s] %s(%s) @ %s\n" % (str(idx), str(cnt[idx]), str(cnt[idx]/lenP), TestPassUrl[idx], ))        
+                if lenP == 0:
+                    Rst = 0
+                else :
+                    Rst = cnt[idx]/lenP
+                l.Notice("[Target %s] %s(%s) @ %s\n" % (str(idx), str(cnt[idx]), str(Rst), TestPassUrl[idx] ))        
                 
