@@ -23,7 +23,7 @@ nohup python CDRetainer.py &
 + `ConfigParser`  Replaced with `configparser` in `python3.x`
 
 ### New Idea
-- [ ] Try some ProxyPages BESIDES html
+- [ ] Solve IP banned issue (Use proxy to capture proxy)
 - [x] Make a `Configure` out of Source Code
 - [x] Custom `Sourcelist` for different aims
 
