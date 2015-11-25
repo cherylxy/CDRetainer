@@ -16,7 +16,10 @@ config = ConfigParser.ConfigParser()
 config.read("./conf/Basic.conf") 
 path_home = config.get("path", "path_home")
 path_list = config.get("path", "path_list")
+prxswitch = config.getint("para", "USE_PROXY")
 exec_cyctime = config.getint("para", "EXEC_CYCLETIME")
+
+currentpxy = ""
 
 filepath = [line.strip().split('@')[0] for line in file(path_list) ]
 TestPassUrl = [line.strip().split('@')[1] for line in file(path_list) ]
@@ -35,8 +38,8 @@ def test_proxy(ip, port, target):
         if len(text) > 10:
             time2 = time.time();
             if time2 - time1 < 10:
-                fobj = open("%s/%s" %(str(path_home), filepath[target]), "a");
-                fobj.write('%s:%s\n'%(ip,port));
+                fobj = open("../%s" % filepath[target], "a");
+                fobj.write('%s:%s\n' % (ip,port));
                 fobj.close();
                 l.Notice("%s:%s Passed [Target %s]" % (str(ip), str(port), str(target))) 
                 return True
@@ -78,7 +81,10 @@ def Get_XICI():
             "http://www.xicidaili.com/wn/", "http://www.xicidaili.com/wt/"]
     retlist = []
     for idx in xrange(0,4):
-        doc = Getdoc(url[idx])
+        if prxswitch == 0:
+            doc = Getdoc(url[idx])
+        elif prxswitch == 1:
+            doc = Getdoc_proxy(url[idx], currentpxy)
         soup = GetSoup(doc)
         for table in soup.find_all('table') :
             if table.find('tr') :
@@ -96,7 +102,10 @@ def Get_KUAI():
     retlist = []
     for idx in xrange(1,11):
         url = urlhead.replace('pagesites',str(idx))
-        doc = Getdoc(url)
+        if prxswitch == 0:
+            doc = Getdoc(url)
+        elif prxswitch == 1:
+            doc = Getdoc_proxy(url, currentpxy)
         soup = GetSoup(doc)
         for table in soup.find_all('table') :
             if table.find('tr') :
@@ -111,7 +120,10 @@ def Get_KUAI():
         
 def Get_P360():
     url = "http://www.proxy360.cn/Proxy"
-    doc = Getdoc(url)
+    if prxswitch == 0:
+        doc = Getdoc(url)
+    elif prxswitch == 1:
+        doc = Getdoc_proxy(url, currentpxy)
     soup = GetSoup(doc)
     retlist = []
     for table in soup.find_all('table') :
@@ -144,7 +156,10 @@ def Get_YDLN(): # Broken Soup
     
 def Get_CZ88():
     url = "http://www.cz88.net/proxy/"
-    doc = Getdoc(url)
+    if prxswitch == 0:
+        doc = Getdoc(url)
+    elif prxswitch == 1:
+        doc = Getdoc_proxy(url, currentpxy)
     soup = GetSoup(doc)
     retlist = []
     for d in soup.find_all('div') :
@@ -206,9 +221,6 @@ if __name__ == '__main__':
                         cnt[idx] += 1
             l.Notice("Crawl Finished, Result Below:")
             for idx in xrange(0, lenT):
-                if lenP == 0:
-                    Rst = 0
-                else :
-                    Rst = cnt[idx]/lenP
-                l.Notice("[Target %s] %s(%s) @ %s\n" % (str(idx), str(cnt[idx]), str(Rst), TestPassUrl[idx] ))        
+                Rst = lenP
+                l.Notice("[Target %s] (%s/%s) @ %s\n" % (str(idx), str(cnt[idx]), str(Rst), TestPassUrl[idx] ))        
                 
