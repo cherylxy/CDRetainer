@@ -23,11 +23,15 @@ nohup python CDRetainer.py &
 + `ConfigParser`  Replaced with `configparser` in `python3.x`
 
 ### New Idea
-- [ ] Solve IP banned issue (Use proxy to capture proxy)
+- [ ] Solve IP banned issue (`PCP` Function)
 - [x] Make a `Configure` out of Source Code
 - [x] Custom `Sourcelist` for different aims
 
 ### UpdateLog    
+[2015/11/25] ver 1.0.2
+- Remove Access Rate
++ Add switch for `PCP`(use Proxy to Capture Proxy)
+
 [2015/11/11] ver 1.0.1
 + Fix Division Operation for ZeroDivisionError
 
