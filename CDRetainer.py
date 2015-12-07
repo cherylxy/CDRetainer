@@ -7,6 +7,7 @@ import os
 import sys
 import time
 import logMod
+import random
 import cPickle
 import urllib2
 import ConfigParser
@@ -19,7 +20,7 @@ path_list = config.get("path", "path_list")
 prxswitch = config.getint("para", "USE_PROXY")
 exec_cyctime = config.getint("para", "EXEC_CYCLETIME")
 
-currentpxy = ""
+cachepxy = []
 
 filepath = [line.strip().split('@')[0] for line in file(path_list) ]
 TestPassUrl = [line.strip().split('@')[1] for line in file(path_list) ]
@@ -39,7 +40,10 @@ def test_proxy(ip, port, target):
             time2 = time.time();
             if time2 - time1 < 10:
                 fobj = open("../%s" % filepath[target], "a");
-                fobj.write('%s:%s\n' % (ip,port));
+                current_proxy = str(ip) + ":" + str(port)
+                fobj.write('%s\n' % current_proxy );
+                if len(cachepxy) < 10 and not(current_proxy in cachepxy) :
+                    cachepxy.append( current_proxy )
                 fobj.close();
                 l.Notice("%s:%s Passed [Target %s]" % (str(ip), str(port), str(target))) 
                 return True
@@ -57,14 +61,35 @@ def Getdoc_proxy(url, pxy) :
     urllib2.install_opener(opener);
     request = urllib2.Request(url);  
     request.add_header('User-Agent', 'fake-client');  
-    html_doc = urllib2.urlopen(request, timeout = 5)
+    html_doc = urllib2.urlopen(request, timeout = 10)
     return html_doc
 
-def Getdoc(url) :
+def Getdoc_direct(url) :
     request = urllib2.Request(url);  
     request.add_header('User-Agent', 'fake-client');  
     html_doc = urllib2.urlopen(request, timeout = 10)
     return html_doc
+
+def Getdoc(url) :
+    if prxswitch == 0 :
+        return Getdoc_direct(url)
+    else :
+        try :
+            doc = Getdoc_direct(url)
+        except Exception,ex :
+            l.Warning( "Direct Crawl Failed at %s : %s" % (str(url), str(ex)) )
+            l.Warning( "Swap Proxy_Crawling..." )
+            while len(cachepxy) > 3 :
+                idx = random.randrange(0, len(cachepxy), 1)
+                Cur_proxy = cachepxy[idx]
+                try :
+                    doc = Getdoc_proxy(url, Cur_proxy)
+                except Exception,ex :
+                    l.Warning("Proxy Crawl Failed at %s, Remove%s : %s" % (str(url), str(Cur_proxy), str(ex)) )
+                    cachepxy.remove(Cur_proxy)
+                    continue
+                return doc
+    return doc
 
 def GetSoup_html(html_doc, lang) :
     readinto = html_doc.read()
@@ -81,10 +106,7 @@ def Get_XICI():
             "http://www.xicidaili.com/wn/", "http://www.xicidaili.com/wt/"]
     retlist = []
     for idx in xrange(0,4):
-        if prxswitch == 0:
-            doc = Getdoc(url[idx])
-        elif prxswitch == 1:
-            doc = Getdoc_proxy(url[idx], currentpxy)
+        doc = Getdoc(url[idx])
         soup = GetSoup(doc)
         for table in soup.find_all('table') :
             if table.find('tr') :
@@ -102,10 +124,7 @@ def Get_KUAI():
     retlist = []
     for idx in xrange(1,11):
         url = urlhead.replace('pagesites',str(idx))
-        if prxswitch == 0:
-            doc = Getdoc(url)
-        elif prxswitch == 1:
-            doc = Getdoc_proxy(url, currentpxy)
+        doc = Getdoc(url)
         soup = GetSoup(doc)
         for table in soup.find_all('table') :
             if table.find('tr') :
@@ -120,10 +139,7 @@ def Get_KUAI():
         
 def Get_P360():
     url = "http://www.proxy360.cn/Proxy"
-    if prxswitch == 0:
-        doc = Getdoc(url)
-    elif prxswitch == 1:
-        doc = Getdoc_proxy(url, currentpxy)
+    doc = Getdoc(url)
     soup = GetSoup(doc)
     retlist = []
     for table in soup.find_all('table') :
@@ -156,10 +172,7 @@ def Get_YDLN(): # Broken Soup
     
 def Get_CZ88():
     url = "http://www.cz88.net/proxy/"
-    if prxswitch == 0:
-        doc = Getdoc(url)
-    elif prxswitch == 1:
-        doc = Getdoc_proxy(url, currentpxy)
+    doc = Getdoc(url)
     soup = GetSoup(doc)
     retlist = []
     for d in soup.find_all('div') :
