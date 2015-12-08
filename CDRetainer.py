@@ -39,7 +39,7 @@ def test_proxy(ip, port, target):
         if len(text) > 10:
             time2 = time.time();
             if time2 - time1 < 10:
-                fobj = open("../%s" % filepath[target], "a");
+                fobj = open("%s/%s" % (str(path_home), filepath[target]), "a");
                 current_proxy = str(ip) + ":" + str(port)
                 fobj.write('%s\n' % current_proxy );
                 if len(cachepxy) < 20 and not(current_proxy in cachepxy) :
