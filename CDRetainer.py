@@ -42,7 +42,7 @@ def test_proxy(ip, port, target):
                 fobj = open("../%s" % filepath[target], "a");
                 current_proxy = str(ip) + ":" + str(port)
                 fobj.write('%s\n' % current_proxy );
-                if len(cachepxy) < 10 and not(current_proxy in cachepxy) :
+                if len(cachepxy) < 20 and not(current_proxy in cachepxy) :
                     cachepxy.append( current_proxy )
                 fobj.close();
                 l.Notice("%s:%s Passed [Target %s]" % (str(ip), str(port), str(target))) 
@@ -72,25 +72,28 @@ def Getdoc_direct(url) :
 
 def Getdoc(url) :
     if prxswitch == 0 :
-        return Getdoc_direct(url)
+        doc = Getdoc_direct(url)
+        return doc
     else :
         try :
             doc = Getdoc_direct(url)
+            return doc
         except Exception,ex :
-            l.Warning( "Direct Crawl Failed at %s : %s" % (str(url), str(ex)) )
-            l.Warning( "Swap Proxy_Crawling..." )
+            l.Warning( "Direct Crawl Failed at %s : %s\n" % (str(url), str(ex)) )
             while len(cachepxy) > 3 :
                 idx = random.randrange(0, len(cachepxy), 1)
                 Cur_proxy = cachepxy[idx]
+                l.Notice("%s Proxy_Crawling... " % str(Cur_proxy) ) 
                 try :
                     doc = Getdoc_proxy(url, Cur_proxy)
+                    return doc
                 except Exception,ex :
-                    l.Warning("Proxy Crawl Failed at %s, Remove%s : %s" % (str(url), str(Cur_proxy), str(ex)) )
+                    l.Warning("Proxy Crawl Failed at %s, Remove [%s] for %s" % (str(url), str(Cur_proxy), str(ex)) )
                     cachepxy.remove(Cur_proxy)
                     continue
-                return doc
-    return doc
+            return Getdoc_direct(url)
 
+                    
 def GetSoup_html(html_doc, lang) :
     readinto = html_doc.read()
     soup = BeautifulSoup(readinto.decode(lang), "html.parser")
@@ -235,5 +238,5 @@ if __name__ == '__main__':
             l.Notice("Crawl Finished, Result Below:")
             for idx in xrange(0, lenT):
                 Rst = lenP
-                l.Notice("[Target %s] (%s/%s) @ %s\n" % (str(idx), str(cnt[idx]), str(Rst), TestPassUrl[idx] ))        
+                l.Notice("[Target %s] (%s/%s) Passed %s\n" % (str(idx), str(cnt[idx]), str(Rst), TestPassUrl[idx] ))        
                 
