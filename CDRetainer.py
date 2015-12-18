@@ -42,7 +42,7 @@ def test_proxy(ip, port, target):
                 fobj = open("%s/%s" % (str(path_home), filepath[target]), "a");
                 current_proxy = str(ip) + ":" + str(port)
                 fobj.write('%s\n' % current_proxy );
-                if len(cachepxy) < 20 and not(current_proxy in cachepxy) :
+                if prxswitch != 0 and len(cachepxy) < 20 and not(current_proxy in cachepxy) :
                     cachepxy.append( current_proxy )
                 fobj.close();
                 l.Notice("%s:%s Passed [Target %s]" % (str(ip), str(port), str(target))) 
@@ -197,46 +197,41 @@ def test_Vars():
     print filepath, TestPassUrl
     
 if __name__ == '__main__':
-    LastTime = -1
     # test_Vars()
-    while True:
-        CurrentTime = time.time()
-        if (CurrentTime - LastTime > exec_cyctime):
-            LastTime = CurrentTime
-            pxylist = []
-            try : # www.xicidaili.com
-                pxylist.extend(Get_XICI())
-                l.Notice("XICI Finished.")
-            except Exception,ex :
-                l.Warning("XICI Failed for %s" % str(ex))
-            try : # www.kuaidaili.com
-                pxylist.extend(Get_KUAI())
-                l.Notice("KUAI Finished.")
-            except Exception,ex :
-                l.Warning("KUAI Failed for %s" % str(ex))
-            try : # www.proxy360.cn
-                pxylist.extend(Get_P360())
-                l.Notice("P360 Finished.")
-            except Exception,ex :
-                l.Warning("P360 Failed for %s" % str(ex))   
-            try : # www.cz88.net
-                pxylist.extend(Get_CZ88())
-                l.Notice("CZ88 Finished.")
-            except Exception,ex :
-                l.Warning("CZ88 Failed for %s" % str(ex))  
-            
-            cnt = {}
-            lenT,lenP = len(TestPassUrl), len(pxylist)
-            for idx in xrange(0, lenT):
-                cnt[idx] = 0
-            for each in pxylist:
-                tmp = each.split(':');
-                ip,port = tmp[0],tmp[1]; 
-                for idx in xrange(0, lenT):
-                    if test_proxy(ip, port, idx):
-                        cnt[idx] += 1
-            l.Notice("Crawl Finished, Result Below:")
-            for idx in xrange(0, lenT):
-                Rst = lenP
-                l.Notice("[Target %s] (%s/%s) Passed %s\n" % (str(idx), str(cnt[idx]), str(Rst), TestPassUrl[idx] ))        
-                
+    pxylist = []
+    try : # www.xicidaili.com
+        pxylist.extend(Get_XICI())
+        l.Notice("XICI Finished.")
+    except Exception,ex :
+        l.Warning("XICI Failed for %s" % str(ex))
+    try : # www.kuaidaili.com
+        pxylist.extend(Get_KUAI())
+        l.Notice("KUAI Finished.")
+    except Exception,ex :
+        l.Warning("KUAI Failed for %s" % str(ex))
+    try : # www.proxy360.cn
+        pxylist.extend(Get_P360())
+        l.Notice("P360 Finished.")
+    except Exception,ex :
+        l.Warning("P360 Failed for %s" % str(ex))   
+    try : # www.cz88.net
+        pxylist.extend(Get_CZ88())
+        l.Notice("CZ88 Finished.")
+    except Exception,ex :
+        l.Warning("CZ88 Failed for %s" % str(ex))  
+    
+    cnt = {}
+    lenT,lenP = len(TestPassUrl), len(pxylist)
+    for idx in xrange(0, lenT):
+        cnt[idx] = 0
+    for each in pxylist:
+        tmp = each.split(':');
+        ip,port = tmp[0],tmp[1]; 
+        for idx in xrange(0, lenT):
+            if test_proxy(ip, port, idx):
+                cnt[idx] += 1
+    l.Notice("Crawl Finished, Result Below:")
+    for idx in xrange(0, lenT):
+        Rst = lenP
+        l.Notice("[Target %s] (%s/%s) Passed %s\n" % (str(idx), str(cnt[idx]), str(Rst), TestPassUrl[idx] ))        
+        

@@ -23,12 +23,15 @@ nohup python CDRetainer.py &
 + `ConfigParser`  Replaced with `configparser` in `python3.x`
 
 ### New Idea
-- [ ] Solve Initial issue
-- [x] Solve IP banned issue (`PCP` Function)
+- [x] Solve Initial issue
 - [x] Make a `Configure` out of Source Code
 - [x] Custom `Sourcelist` for different aims
 
 ### UpdateLog    
+[2015/12/18] ver 1.0.4
+- Remove `PCP` Function for Poor performance
++ Add `Sup`(`Support` or `SubProcess`) Module for Issue `Errno.110`
+
 [2015/12/07] ver 1.0.3
 + Add `Try-Except` to protect and monitor
 + Add `PCP` Function as Formula
