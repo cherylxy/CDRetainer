@@ -19,6 +19,6 @@ if __name__ == '__main__':
         if (CurrentTime - LastTime > exec_cyctime):
             LastTime = CurrentTime
             # os.system('nohup python CDRetainer.py &')
-            (status, output) = commands.getstatusoutput('nohup python CDRetainer.py \&')
             l.Notice("Sup_Process Start. Loading CDRetainer...")
-            l.Notice("Status: %s\nOutput: %s" % (str(status), str(output)))
+            (status, output) = commands.getstatusoutput('nohup python CDRetainer.py \&')
+            l.Notice("Retainer Finished. Status: %s\nOutput: %s" % (str(status), str(output)))
