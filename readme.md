@@ -23,7 +23,7 @@ nohup python CDRetainer.py &
 + `ConfigParser`  Replaced with `configparser` in `python3.x`
 
 ### New Idea
-- [x] Solve Initial issue
+- [ ] Use `run.sh`&`kill.sh` to Switch Retainer
 - [x] Make a `Configure` out of Source Code
 - [x] Custom `Sourcelist` for different aims
 
