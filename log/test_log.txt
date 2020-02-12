@@ -1,0 +1,1541 @@
+[Notice] XICI Finished with 400 results. 02-12 18:07:56
+[Notice] NIMA Finished with 150 results. 02-12 18:07:56
+[Notice] 114.99.1.84:9999 Failed, <urlopen error timed out> 02-12 18:08:04
+[Notice] 114.99.1.84:9999 Failed, <urlopen error timed out> 02-12 18:08:12
+[Notice] 114.224.20.69:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:08:14
+[Notice] 114.224.20.69:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:08:16
+[Notice] 114.226.245.191:9999 Failed, <urlopen error timed out> 02-12 18:08:24
+[Notice] 114.226.245.191:9999 Failed, <urlopen error timed out> 02-12 18:08:32
+[Notice] 122.193.231.37:9999 Passed on [Target Baidu.txt] 02-12 18:08:33
+[Notice] 122.193.231.37:9999 Passed on [Target CD.txt] 02-12 18:08:33
+[Notice] 223.199.23.181:9999 Failed, HTTP Error 403: Forbidden 02-12 18:08:34
+[Notice] 223.199.23.181:9999 Failed, HTTP Error 403: Forbidden 02-12 18:08:34
+[Notice] 111.79.44.185:9999 Failed, <urlopen error timed out> 02-12 18:08:42
+[Notice] 1.196.177.199:9999 Failed, timed out 02-12 18:09:02
+[Notice] 1.196.177.199:9999 Failed, timed out 02-12 18:09:17
+[Notice] 114.99.234.152:9999 Failed, <urlopen error timed out> 02-12 18:09:25
+[Notice] 114.99.234.152:9999 Failed, <urlopen error timed out> 02-12 18:09:33
+[Notice] 175.154.117.27:9999 Failed, <urlopen error timed out> 02-12 18:09:41
+[Notice] 175.154.117.27:9999 Failed, <urlopen error timed out> 02-12 18:09:49
+[Notice] 114.231.42.132:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:09:51
+[Notice] 114.231.42.132:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:09:53
+[Notice] 111.72.25.5:9999 Failed, <urlopen error timed out> 02-12 18:10:01
+[Notice] 111.72.25.5:9999 Failed, <urlopen error timed out> 02-12 18:10:09
+[Notice] 49.76.193.203:9999 Failed, <urlopen error timed out> 02-12 18:10:17
+[Notice] 49.76.193.203:9999 Failed, <urlopen error timed out> 02-12 18:10:25
+[Notice] 220.175.145.190:9999 Failed, <urlopen error timed out> 02-12 18:10:33
+[Notice] 220.175.145.190:9999 Failed, timed out 02-12 18:10:41
+[Notice] 60.168.81.206:9999 Failed, <urlopen error timed out> 02-12 18:10:49
+[Notice] 60.168.81.206:9999 Failed, <urlopen error timed out> 02-12 18:10:57
+[Notice] 36.27.28.240:9999 Passed on [Target Baidu.txt] 02-12 18:10:58
+[Notice] 36.27.28.240:9999 Passed on [Target CD.txt] 02-12 18:11:01
+[Notice] 115.216.43.75:9999 Passed on [Target Baidu.txt] 02-12 18:11:02
+[Notice] 115.216.43.75:9999 Passed on [Target CD.txt] 02-12 18:11:05
+[Notice] 114.231.41.142:9999 Failed, <urlopen error timed out> 02-12 18:11:13
+[Notice] 114.231.41.142:9999 Failed, timed out 02-12 18:11:28
+[Notice] 1.196.105.218:9999 Failed, <urlopen error timed out> 02-12 18:11:36
+[Notice] 1.196.105.218:9999 Failed, <urlopen error timed out> 02-12 18:11:44
+[Notice] 60.167.82.56:9999 Failed, <urlopen error timed out> 02-12 18:11:52
+[Notice] 60.167.82.56:9999 Failed, <urlopen error timed out> 02-12 18:12:00
+[Notice] 115.216.57.201:9999 Passed on [Target Baidu.txt] 02-12 18:12:00
+[Notice] 115.216.57.201:9999 Failed, timed out 02-12 18:12:08
+[Notice] 58.212.42.210:9999 Failed, <urlopen error timed out> 02-12 18:12:16
+[Notice] 58.212.42.210:9999 Failed, <urlopen error timed out> 02-12 18:12:24
+[Notice] 49.76.188.114:9999 Failed, HTTP Error 403: Forbidden 02-12 18:12:25
+[Notice] 49.76.188.114:9999 Failed, HTTP Error 403: Forbidden 02-12 18:12:25
+[Notice] 112.85.127.71:9999 Passed on [Target Baidu.txt] 02-12 18:12:25
+[Notice] 112.85.127.71:9999 Passed on [Target CD.txt] 02-12 18:12:31
+[Notice] 112.87.78.127:9999 Failed, <urlopen error timed out> 02-12 18:12:39
+[Notice] 112.87.78.127:9999 Failed, <urlopen error timed out> 02-12 18:12:47
+[Notice] 123.163.122.9:9999 Failed, <urlopen error timed out> 02-12 18:12:55
+[Notice] 123.163.122.9:9999 Failed, <urlopen error timed out> 02-12 18:13:03
+[Notice] 112.85.151.246:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:13:06
+[Notice] 112.85.151.246:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:13:08
+[Notice] 123.149.136.161:9999 Failed, <urlopen error timed out> 02-12 18:13:16
+[Notice] 123.149.136.161:9999 Failed, <urlopen error timed out> 02-12 18:13:24
+[Notice] 60.167.112.158:9999 Failed, <urlopen error timed out> 02-12 18:13:32
+[Notice] 60.167.112.158:9999 Failed, <urlopen error timed out> 02-12 18:13:40
+[Notice] 114.226.246.144:9999 Failed, timed out 02-12 18:13:50
+[Notice] 114.226.246.144:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:13:52
+[Notice] 115.216.40.75:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:13:55
+[Notice] 115.216.40.75:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:13:57
+[Notice] 114.226.245.23:9999 Failed, <urlopen error timed out> 02-12 18:14:05
+[Notice] 114.226.245.23:9999 Failed, <urlopen error timed out> 02-12 18:14:13
+[Notice] 117.88.176.9:3000 Failed, <urlopen error timed out> 02-12 18:14:21
+[Notice] 117.88.176.9:3000 Failed, <urlopen error timed out> 02-12 18:14:29
+[Notice] 1.196.177.252:9999 Failed, <urlopen error timed out> 02-12 18:14:37
+[Notice] 1.196.177.252:9999 Failed, <urlopen error timed out> 02-12 18:14:45
+[Notice] 123.149.137.179:9999 Failed, <urlopen error timed out> 02-12 18:14:53
+[Notice] 123.149.137.179:9999 Failed, <urlopen error timed out> 02-12 18:15:01
+[Notice] 183.146.156.3:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:15:03
+[Notice] 183.146.156.3:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:15:05
+[Notice] 114.226.162.108:9999 Failed, <urlopen error timed out> 02-12 18:15:13
+[Notice] 114.226.162.108:9999 Failed, <urlopen error timed out> 02-12 18:15:21
+[Notice] 123.149.137.42:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:15:23
+[Notice] 123.149.137.42:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:15:25
+[Notice] 58.212.43.96:9999 Failed, <urlopen error timed out> 02-12 18:15:33
+[Notice] 58.212.43.96:9999 Failed, <urlopen error timed out> 02-12 18:15:41
+[Notice] 183.166.132.228:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:15:43
+[Notice] 183.166.132.228:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:15:45
+[Notice] 112.85.162.125:9999 Failed, <urlopen error timed out> 02-12 18:15:53
+[Notice] 112.85.162.125:9999 Failed, <urlopen error timed out> 02-12 18:16:01
+[Notice] 220.176.40.68:9999 Failed, <urlopen error timed out> 02-12 18:16:09
+[Notice] 220.176.40.68:9999 Failed, <urlopen error timed out> 02-12 18:16:17
+[Notice] 183.166.163.17:9999 Failed, <urlopen error timed out> 02-12 18:16:25
+[Notice] 183.166.163.17:9999 Failed, <urlopen error timed out> 02-12 18:16:33
+[Notice] 49.77.208.140:9999 Failed, <urlopen error timed out> 02-12 18:16:41
+[Notice] 49.77.208.140:9999 Failed, <urlopen error timed out> 02-12 18:16:49
+[Notice] 223.241.119.19:18118 Failed, <urlopen error timed out> 02-12 18:16:57
+[Notice] 223.241.119.19:18118 Failed, <urlopen error timed out> 02-12 18:17:05
+[Notice] 120.83.105.113:9999 Failed, <urlopen error timed out> 02-12 18:17:13
+[Notice] 120.83.105.113:9999 Failed, <urlopen error timed out> 02-12 18:17:21
+[Notice] 114.231.41.54:9999 Failed, <urlopen error timed out> 02-12 18:17:29
+[Notice] 114.231.41.54:9999 Failed, <urlopen error timed out> 02-12 18:17:37
+[Notice] 60.167.21.83:9999 Failed, <urlopen error timed out> 02-12 18:17:45
+[Notice] 60.167.21.83:9999 Failed, <urlopen error timed out> 02-12 18:17:53
+[Notice] 222.190.163.150:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:17:55
+[Notice] 222.190.163.150:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:17:57
+[Notice] 114.224.20.179:9999 Failed, timed out 02-12 18:18:12
+[Notice] 114.224.20.179:9999 Failed, timed out 02-12 18:18:23
+[Notice] 117.88.177.215:3000 Failed, <urlopen error timed out> 02-12 18:18:31
+[Notice] 117.88.177.215:3000 Failed, <urlopen error timed out> 02-12 18:18:39
+[Notice] 123.149.136.164:9999 Failed, <urlopen error timed out> 02-12 18:18:47
+[Notice] 123.149.136.164:9999 Failed, <urlopen error timed out> 02-12 18:18:55
+[Notice] 36.27.30.244:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:19:01
+[Notice] 36.27.30.244:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:19:03
+[Notice] 114.223.62.91:9999 Failed, timed out 02-12 18:20:13
+[Notice] 114.223.62.91:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:20:15
+[Notice] 114.235.86.10:9999 Failed, <urlopen error timed out> 02-12 18:20:23
+[Notice] 114.235.86.10:9999 Failed, <urlopen error timed out> 02-12 18:20:31
+[Notice] 49.77.210.95:9999 Failed, HTTP Error 403: Forbidden 02-12 18:20:35
+[Notice] 49.77.210.95:9999 Failed, HTTP Error 403: Forbidden 02-12 18:20:39
+[Notice] 223.199.27.10:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:20:41
+[Notice] 223.199.27.10:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:20:43
+[Notice] 123.149.137.67:9999 Failed, <urlopen error timed out> 02-12 18:20:51
+[Notice] 123.149.137.67:9999 Failed, <urlopen error timed out> 02-12 18:20:59
+[Notice] 220.175.144.140:9999 Failed, <urlopen error timed out> 02-12 18:21:07
+[Notice] 220.175.144.140:9999 Failed, timed out 02-12 18:21:18
+[Notice] 183.159.114.197:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:21:20
+[Notice] 183.159.114.197:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:21:23
+[Notice] 60.167.22.218:9999 Failed, <urlopen error timed out> 02-12 18:21:31
+[Notice] 60.167.22.218:9999 Failed, <urlopen error timed out> 02-12 18:21:39
+[Notice] 60.167.22.18:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:21:41
+[Notice] 60.167.22.18:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:21:44
+[Notice] 223.199.17.178:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:21:47
+[Notice] 223.199.17.178:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:21:49
+[Notice] 180.122.180.192:9999 Failed, <urlopen error timed out> 02-12 18:21:57
+[Notice] 180.122.180.192:9999 Failed, <urlopen error timed out> 02-12 18:22:05
+[Notice] 60.167.102.255:9999 Failed, <urlopen error timed out> 02-12 18:22:13
+[Notice] 60.167.102.255:9999 Failed, <urlopen error timed out> 02-12 18:22:21
+[Notice] 111.79.45.223:9999 Failed, <urlopen error timed out> 02-12 18:22:29
+[Notice] 111.79.45.223:9999 Failed, <urlopen error timed out> 02-12 18:22:37
+[Notice] 122.231.29.138:9999 Failed, <urlopen error timed out> 02-12 18:22:45
+[Notice] 122.231.29.138:9999 Failed, <urlopen error timed out> 02-12 18:22:53
+[Notice] 115.216.40.39:9999 Passed on [Target Baidu.txt] 02-12 18:22:55
+[Notice] 115.216.40.39:9999 Failed, timed out 02-12 18:23:03
+[Notice] 113.195.205.116:9999 Failed, <urlopen error timed out> 02-12 18:23:11
+[Notice] 113.195.205.116:9999 Failed, <urlopen error timed out> 02-12 18:23:19
+[Notice] 220.176.46.77:9999 Passed on [Target Baidu.txt] 02-12 18:23:20
+[Notice] 220.176.46.77:9999 Passed on [Target CD.txt] 02-12 18:23:26
+[Notice] 112.87.78.102:9999 Failed, <urlopen error timed out> 02-12 18:23:34
+[Notice] 112.87.78.102:9999 Failed, <urlopen error timed out> 02-12 18:23:42
+[Notice] 123.149.136.168:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:23:44
+[Notice] 123.149.136.168:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:23:46
+[Notice] 119.5.34.5:9999 Failed, <urlopen error timed out> 02-12 18:23:54
+[Notice] 119.5.34.5:9999 Failed, <urlopen error timed out> 02-12 18:24:02
+[Notice] 27.152.194.53:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:24:05
+[Notice] 27.152.194.53:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:24:07
+[Notice] 59.52.184.87:9999 Failed, <urlopen error timed out> 02-12 18:24:15
+[Notice] 59.52.184.87:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:24:17
+[Notice] 220.184.25.211:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:24:19
+[Notice] 220.184.25.211:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:24:21
+[Notice] 58.253.153.200:9999 Failed, <urlopen error timed out> 02-12 18:24:29
+[Notice] 58.253.153.200:9999 Failed, <urlopen error timed out> 02-12 18:24:37
+[Notice] 182.34.36.162:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:24:39
+[Notice] 182.34.36.162:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:24:41
+[Notice] 111.79.45.239:9999 Failed, <urlopen error timed out> 02-12 18:24:49
+[Notice] 111.79.45.239:9999 Failed, <urlopen error timed out> 02-12 18:24:57
+[Notice] 123.149.141.23:9999 Failed, timed out 02-12 18:25:05
+[Notice] 123.149.141.23:9999 Failed, timed out 02-12 18:25:13
+[Notice] 122.4.45.8:9999 Failed, HTTP Error 403: Forbidden 02-12 18:25:20
+[Notice] 122.4.45.8:9999 Failed, timed out 02-12 18:25:28
+[Notice] 59.52.187.167:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:25:30
+[Notice] 59.52.187.167:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:25:32
+[Notice] 182.46.111.189:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:25:34
+[Notice] 182.46.111.189:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:25:36
+[Notice] 49.77.209.51:9999 Failed, <urlopen error timed out> 02-12 18:25:44
+[Notice] 49.77.209.51:9999 Failed, <urlopen error timed out> 02-12 18:25:52
+[Notice] 115.239.63.115:9999 Failed, <urlopen error timed out> 02-12 18:26:00
+[Notice] 115.239.63.115:9999 Failed, <urlopen error timed out> 02-12 18:26:08
+[Notice] 183.154.52.222:9999 Failed, <urlopen error timed out> 02-12 18:26:16
+[Notice] 183.154.52.222:9999 Failed, <urlopen error timed out> 02-12 18:26:24
+[Notice] 49.85.85.23:9999 Failed, <urlopen error timed out> 02-12 18:26:32
+[Notice] 49.85.85.23:9999 Failed, <urlopen error timed out> 02-12 18:26:40
+[Notice] 123.149.137.244:9999 Failed, <urlopen error timed out> 02-12 18:26:48
+[Notice] 123.149.137.244:9999 Failed, <urlopen error timed out> 02-12 18:26:56
+[Notice] 27.215.192.15:9999 Failed, <urlopen error timed out> 02-12 18:27:04
+[Notice] 27.215.192.15:9999 Failed, <urlopen error timed out> 02-12 18:27:12
+[Notice] 113.195.170.170:9999 Failed, <urlopen error timed out> 02-12 18:27:20
+[Notice] 113.195.170.170:9999 Failed, <urlopen error timed out> 02-12 18:27:28
+[Notice] 114.99.5.162:9999 Passed on [Target Baidu.txt] 02-12 18:27:29
+[Notice] 114.99.5.162:9999 Passed on [Target CD.txt] 02-12 18:27:34
+[Notice] 175.154.120.203:9999 Failed, <urlopen error timed out> 02-12 18:27:42
+[Notice] 175.154.120.203:9999 Failed, <urlopen error timed out> 02-12 18:27:50
+[Notice] 114.226.244.188:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:27:52
+[Notice] 114.226.244.188:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:27:54
+[Notice] 220.176.33.142:9999 Failed, <urlopen error timed out> 02-12 18:28:02
+[Notice] 220.176.33.142:9999 Failed, <urlopen error timed out> 02-12 18:28:10
+[Notice] 60.167.132.90:9999 Failed, <urlopen error timed out> 02-12 18:28:18
+[Notice] 60.167.132.90:9999 Failed, <urlopen error timed out> 02-12 18:28:26
+[Notice] 120.83.111.97:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:28:28
+[Notice] 120.83.111.97:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:28:31
+[Notice] 220.175.145.250:9999 Passed on [Target Baidu.txt] 02-12 18:28:31
+[Notice] 220.175.145.250:9999 Failed, timed out 02-12 18:28:41
+[Notice] 112.87.76.71:9999 Failed, <urlopen error timed out> 02-12 18:28:49
+[Notice] 112.87.76.71:9999 Failed, <urlopen error timed out> 02-12 18:28:57
+[Notice] 111.79.45.19:9999 Failed, timed out 02-12 18:29:05
+[Notice] 111.79.45.19:9999 Failed, timed out 02-12 18:29:13
+[Notice] 111.79.45.157:9999 Failed, <urlopen error timed out> 02-12 18:29:21
+[Notice] 111.79.45.157:9999 Failed, <urlopen error timed out> 02-12 18:29:29
+[Notice] 223.199.28.161:9999 Failed, <urlopen error timed out> 02-12 18:29:37
+[Notice] 223.199.28.161:9999 Failed, <urlopen error timed out> 02-12 18:29:45
+[Notice] 122.228.19.92:3389 Failed, <urlopen error timed out> 02-12 18:29:53
+[Notice] 122.228.19.92:3389 Failed, timed out 02-12 18:30:04
+[Notice] 221.229.252.98:8080 Failed, <urlopen error timed out> 02-12 18:30:12
+[Notice] 221.229.252.98:8080 Failed, <urlopen error timed out> 02-12 18:30:20
+[Notice] 218.60.8.83:3129 Failed, HTTP Error 503: Service Unavailable 02-12 18:30:20
+[Notice] 218.60.8.83:3129 Passed on [Target CD.txt] 02-12 18:30:22
+[Notice] 112.95.205.49:8888 Failed, <urlopen error timed out> 02-12 18:30:30
+[Notice] 112.95.205.49:8888 Failed, <urlopen error timed out> 02-12 18:30:38
+[Notice] 27.191.234.69:9999 Failed, <urlopen error timed out> 02-12 18:30:46
+[Notice] 27.191.234.69:9999 Failed, <urlopen error timed out> 02-12 18:30:54
+[Notice] 223.245.47.253:65309 Failed, <urlopen error timed out> 02-12 18:31:02
+[Notice] 223.245.47.253:65309 Failed, <urlopen error timed out> 02-12 18:31:10
+[Notice] 183.129.207.74:14823 Failed, timed out 02-12 18:31:18
+[Notice] 183.129.207.74:14823 Failed, timed out 02-12 18:31:26
+[Notice] 125.123.138.212:9000 Failed, <urlopen error timed out> 02-12 18:31:34
+[Notice] 125.123.138.212:9000 Failed, <urlopen error timed out> 02-12 18:31:42
+[Notice] 112.95.20.107:8888 Failed, <urlopen error timed out> 02-12 18:31:50
+[Notice] 112.95.20.107:8888 Failed, <urlopen error timed out> 02-12 18:31:58
+[Notice] 14.20.235.46:808 Failed, <urlopen error timed out> 02-12 18:32:06
+[Notice] 14.20.235.46:808 Failed, timed out 02-12 18:32:17
+[Notice] 223.199.182.192:53281 Failed, <urlopen error timed out> 02-12 18:32:25
+[Notice] 223.199.182.192:53281 Failed, <urlopen error timed out> 02-12 18:32:33
+[Notice] 163.125.17.153:8888 Failed, <urlopen error timed out> 02-12 18:32:41
+[Notice] 163.125.17.153:8888 Failed, <urlopen error timed out> 02-12 18:32:49
+[Notice] 14.20.235.82:9797 Failed, HTTP Error 403: Forbidden 02-12 18:32:55
+[Notice] 14.20.235.82:9797 Failed, [WinError 10054] 远程主机强迫关闭了一个现有的连接。 02-12 18:32:58
+[Notice] 222.240.184.126:8086 Failed, <urlopen error timed out> 02-12 18:33:06
+[Notice] 222.240.184.126:8086 Failed, <urlopen error timed out> 02-12 18:33:14
+[Notice] 119.23.79.199:3128 Failed, timed out 02-12 18:33:22
+[Notice] 119.23.79.199:3128 Failed, timed out 02-12 18:33:30
+[Notice] 117.64.237.142:9999 Failed, <urlopen error timed out> 02-12 18:33:38
+[Notice] 117.64.237.142:9999 Failed, <urlopen error timed out> 02-12 18:33:46
+[Notice] 163.125.70.180:9999 Failed, <urlopen error timed out> 02-12 18:33:54
+[Notice] 163.125.70.180:9999 Failed, <urlopen error timed out> 02-12 18:34:02
+[Notice] 121.12.152.242:58080 Failed, <urlopen error timed out> 02-12 18:34:10
+[Notice] 121.12.152.242:58080 Failed, <urlopen error timed out> 02-12 18:34:18
+[Notice] 27.38.98.162:9797 Failed, <urlopen error timed out> 02-12 18:34:26
+[Notice] 27.38.98.162:9797 Failed, <urlopen error timed out> 02-12 18:34:34
+[Notice] 122.228.19.7:3389 Failed, timed out 02-12 18:34:43
+[Notice] 122.228.19.7:3389 Passed on [Target CD.txt] 02-12 18:34:47
+[Notice] 221.13.156.158:55443 Failed, Invalid response from b'' 02-12 18:34:55
+[Notice] 221.13.156.158:55443 Passed on [Target CD.txt] 02-12 18:34:59
+[Notice] 58.244.52.175:8080 Failed, <urlopen error timed out> 02-12 18:35:07
+[Notice] 58.244.52.175:8080 Passed on [Target CD.txt] 02-12 18:35:11
+[Notice] 122.228.19.9:3389 Passed on [Target Baidu.txt] 02-12 18:35:12
+[Notice] 122.228.19.9:3389 Passed on [Target CD.txt] 02-12 18:35:15
+[Notice] 60.167.21.181:8118 Failed, <urlopen error timed out> 02-12 18:35:23
+[Notice] 60.167.21.181:8118 Failed, <urlopen error timed out> 02-12 18:35:31
+[Notice] 111.160.169.54:42626 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:35:33
+[Notice] 111.160.169.54:42626 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:35:35
+[Notice] 183.129.244.20:14153 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:35:38
+[Notice] 183.129.244.20:14153 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:35:40
+[Notice] 153.101.64.50:12034 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:35:42
+[Notice] 153.101.64.50:12034 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:35:44
+[Notice] 58.249.55.222:9797 Failed, <urlopen error timed out> 02-12 18:35:52
+[Notice] 58.249.55.222:9797 Failed, <urlopen error timed out> 02-12 18:36:00
+[Notice] 112.250.107.37:53281 Failed, timed out 02-12 18:36:11
+[Notice] 112.250.107.37:53281 Passed on [Target CD.txt] 02-12 18:36:17
+[Notice] 114.99.15.150:6890 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:36:19
+[Notice] 114.99.15.150:6890 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:36:21
+[Notice] 115.171.85.225:9000 Failed, <urlopen error timed out> 02-12 18:36:29
+[Notice] 115.171.85.225:9000 Failed, timed out 02-12 18:36:40
+[Notice] 114.99.4.248:6890 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:36:42
+[Notice] 114.99.4.248:6890 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:36:44
+[Notice] 119.57.156.90:53281 Failed, <urlopen error timed out> 02-12 18:36:52
+[Notice] 119.57.156.90:53281 Failed, <urlopen error timed out> 02-12 18:37:00
+[Notice] 222.223.182.66:8000 Passed on [Target Baidu.txt] 02-12 18:37:07
+[Notice] 222.223.182.66:8000 Failed, timed out 02-12 18:37:15
+[Notice] 60.191.11.229:3128 Failed, [WinError 10054] 远程主机强迫关闭了一个现有的连接。 02-12 18:37:15
+[Notice] 60.191.11.229:3128 Failed, HTTP Error 500: Internal Server Error 02-12 18:37:15
+[Notice] 119.57.109.129:53281 Failed, <urlopen error timed out> 02-12 18:37:23
+[Notice] 119.57.109.129:53281 Failed, <urlopen error timed out> 02-12 18:37:31
+[Notice] 211.147.226.4:8118 Failed, Remote end closed connection without response 02-12 18:37:31
+[Notice] 211.147.226.4:8118 Failed, Remote end closed connection without response 02-12 18:37:31
+[Notice] 61.153.251.150:22222 Passed on [Target Baidu.txt] 02-12 18:37:35
+[Notice] 61.153.251.150:22222 Passed on [Target CD.txt] 02-12 18:37:37
+[Notice] 124.152.32.140:53281 Passed on [Target Baidu.txt] 02-12 18:37:40
+[Notice] 124.152.32.140:53281 Passed on [Target CD.txt] 02-12 18:37:42
+[Notice] 116.196.85.150:3128 Passed on [Target CD.txt] 02-12 18:38:01
+[Notice] 124.205.155.152:9090 Failed, <urlopen error timed out> 02-12 18:38:09
+[Notice] 124.205.155.152:9090 Failed, <urlopen error timed out> 02-12 18:38:17
+[Notice] 60.176.110.173:8118 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:38:19
+[Notice] 60.176.110.173:8118 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:38:21
+[Notice] 116.21.123.158:808 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:38:23
+[Notice] 116.21.123.158:808 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:38:25
+[Notice] 115.171.85.30:9000 Failed, <urlopen error timed out> 02-12 18:38:33
+[Notice] 115.171.85.30:9000 Failed, <urlopen error timed out> 02-12 18:38:41
+[Notice] 112.64.233.130:9991 Failed, <urlopen error timed out> 02-12 18:38:49
+[Notice] 112.64.233.130:9991 Failed, <urlopen error timed out> 02-12 18:38:57
+[Notice] 114.101.40.170:65309 Failed, <urlopen error timed out> 02-12 18:39:05
+[Notice] 114.101.40.170:65309 Failed, <urlopen error timed out> 02-12 18:39:13
+[Notice] 123.15.24.200:55443 Failed, <urlopen error timed out> 02-12 18:39:21
+[Notice] 123.15.24.200:55443 Failed, <urlopen error timed out> 02-12 18:39:29
+[Notice] 125.46.0.62:53281 Failed, <urlopen error timed out> 02-12 18:39:37
+[Notice] 125.46.0.62:53281 Failed, <urlopen error timed out> 02-12 18:39:45
+[Notice] 223.243.252.155:65309 Failed, <urlopen error timed out> 02-12 18:39:53
+[Notice] 223.243.252.155:65309 Failed, <urlopen error timed out> 02-12 18:40:01
+[Notice] 218.2.226.42:80 Passed on [Target Baidu.txt] 02-12 18:40:03
+[Notice] 218.2.226.42:80 Passed on [Target CD.txt] 02-12 18:40:06
+[Notice] 124.205.143.213:32612 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:40:08
+[Notice] 124.205.143.213:32612 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:40:10
+[Notice] 218.60.8.99:3129 Passed on [Target Baidu.txt] 02-12 18:40:11
+[Notice] 218.60.8.99:3129 Passed on [Target CD.txt] 02-12 18:40:12
+[Notice] 125.123.120.130:9000 Failed, <urlopen error timed out> 02-12 18:40:20
+[Notice] 125.123.120.130:9000 Failed, <urlopen error timed out> 02-12 18:40:28
+[Notice] 123.139.56.238:9999 Passed on [Target Baidu.txt] 02-12 18:40:29
+[Notice] 222.90.110.194:8080 Failed, <urlopen error timed out> 02-12 18:40:54
+[Notice] 1.196.160.46:9999 Failed, <urlopen error timed out> 02-12 18:41:20
+[Notice] 1.196.160.46:9999 Failed, <urlopen error timed out> 02-12 18:41:28
+[Notice] 222.217.125.153:8118 Failed, <urlopen error timed out> 02-12 18:41:36
+[Notice] 222.217.125.153:8118 Failed, <urlopen error timed out> 02-12 18:41:44
+[Notice] 163.125.156.249:9999 Failed, <urlopen error timed out> 02-12 18:41:52
+[Notice] 163.125.156.249:9999 Failed, <urlopen error timed out> 02-12 18:42:00
+[Notice] 27.50.142.132:3128 Failed, <urlopen error timed out> 02-12 18:42:08
+[Notice] 27.50.142.132:3128 Failed, <urlopen error timed out> 02-12 18:42:16
+[Notice] 61.145.182.27:53281 Passed on [Target Baidu.txt] 02-12 18:42:20
+[Notice] 61.145.182.27:53281 Failed, Remote end closed connection without response 02-12 18:42:34
+[Notice] 222.249.238.138:8080 Passed on [Target Baidu.txt] 02-12 18:42:40
+[Notice] 222.249.238.138:8080 Passed on [Target CD.txt] 02-12 18:42:46
+[Notice] 218.64.69.79:8080 Failed, <urlopen error timed out> 02-12 18:42:54
+[Notice] 218.64.69.79:8080 Failed, <urlopen error timed out> 02-12 18:43:02
+[Notice] 103.10.86.203:8080 Failed, <urlopen error timed out> 02-12 18:43:10
+[Notice] 103.10.86.203:8080 Failed, <urlopen error timed out> 02-12 18:43:18
+[Notice] 14.155.112.17:9000 Failed, <urlopen error timed out> 02-12 18:43:26
+[Notice] 14.155.112.17:9000 Failed, <urlopen error timed out> 02-12 18:43:34
+[Notice] 60.211.218.78:53281 Failed, <urlopen error timed out> 02-12 18:43:42
+[Notice] 60.211.218.78:53281 Failed, <urlopen error timed out> 02-12 18:43:50
+[Notice] 124.237.83.14:53281 Failed, <urlopen error timed out> 02-12 18:43:58
+[Notice] 124.237.83.14:53281 Failed, timed out 02-12 18:44:09
+[Notice] 59.44.247.194:9797 Failed, <urlopen error timed out> 02-12 18:44:17
+[Notice] 59.44.247.194:9797 Failed, <urlopen error timed out> 02-12 18:44:25
+[Notice] 114.249.119.45:9000 Failed, <urlopen error timed out> 02-12 18:44:33
+[Notice] 114.249.119.45:9000 Failed, <urlopen error timed out> 02-12 18:44:41
+[Notice] 125.123.65.177:9000 Failed, <urlopen error timed out> 02-12 18:44:49
+[Notice] 125.123.65.177:9000 Failed, <urlopen error timed out> 02-12 18:44:57
+[Notice] 14.115.106.222:808 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:44:59
+[Notice] 14.115.106.222:808 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:45:01
+[Notice] 60.191.45.91:8080 Passed on [Target Baidu.txt] 02-12 18:45:05
+[Notice] 60.191.45.91:8080 Failed, <urlopen error timed out> 02-12 18:45:13
+[Notice] 113.140.1.82:53281 Failed, <urlopen error timed out> 02-12 18:45:21
+[Notice] 113.140.1.82:53281 Failed, <urlopen error timed out> 02-12 18:45:29
+[Notice] 120.79.182.251:3128 Failed, <urlopen error timed out> 02-12 18:45:37
+[Notice] 120.79.182.251:3128 Failed, <urlopen error timed out> 02-12 18:45:45
+[Notice] 202.112.51.45:3128 Failed, HTTP Error 503: Service Unavailable 02-12 18:45:46
+[Notice] 202.112.51.45:3128 Failed, HTTP Error 503: Service Unavailable 02-12 18:45:46
+[Notice] 125.123.47.32:9000 Failed, <urlopen error timed out> 02-12 18:45:54
+[Notice] 125.123.47.32:9000 Failed, <urlopen error timed out> 02-12 18:46:02
+[Notice] 58.243.50.184:53281 Passed on [Target Baidu.txt] 02-12 18:46:09
+[Notice] 58.243.50.184:53281 Failed, <urlopen error timed out> 02-12 18:46:17
+[Notice] 122.228.19.1:3389 Failed, <urlopen error timed out> 02-12 18:46:25
+[Notice] 122.228.19.1:3389 Passed on [Target CD.txt] 02-12 18:46:35
+[Notice] 114.97.230.241:9999 Failed, <urlopen error timed out> 02-12 18:46:43
+[Notice] 114.97.230.241:9999 Failed, <urlopen error timed out> 02-12 18:46:51
+[Notice] 222.175.171.6:8080 Failed, <urlopen error timed out> 02-12 18:46:59
+[Notice] 222.175.171.6:8080 Failed, <urlopen error timed out> 02-12 18:47:07
+[Notice] 60.167.22.226:8118 Failed, <urlopen error timed out> 02-12 18:47:15
+[Notice] 60.167.22.226:8118 Failed, <urlopen error timed out> 02-12 18:47:23
+[Notice] 114.99.15.246:6890 Failed, <urlopen error timed out> 02-12 18:47:31
+[Notice] 114.99.15.246:6890 Failed, <urlopen error timed out> 02-12 18:47:39
+[Notice] 36.24.28.138:8118 Failed, <urlopen error timed out> 02-12 18:47:47
+[Notice] 36.24.28.138:8118 Failed, <urlopen error timed out> 02-12 18:47:55
+[Notice] 113.66.5.225:808 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:47:57
+[Notice] 113.66.5.225:808 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:47:59
+[Notice] 116.196.85.166:3128 Failed, <urlopen error timed out> 02-12 18:48:22
+[Notice] 113.87.163.25:3128 Failed, <urlopen error timed out> 02-12 18:48:30
+[Notice] 113.87.163.25:3128 Failed, <urlopen error timed out> 02-12 18:48:38
+[Notice] 210.26.49.88:3128 Failed, timed out 02-12 18:48:46
+[Notice] 210.26.49.88:3128 Failed, timed out 02-12 18:48:54
+[Notice] 121.225.199.78:3128 Failed, <urlopen error timed out> 02-12 18:49:02
+[Notice] 121.225.199.78:3128 Failed, <urlopen error timed out> 02-12 18:49:10
+[Notice] 60.191.11.246:3128 Passed on [Target Baidu.txt] 02-12 18:49:10
+[Notice] 60.191.11.246:3128 Failed, Remote end closed connection without response 02-12 18:49:10
+[Notice] 123.57.152.252:3128 Failed, <urlopen error timed out> 02-12 18:49:18
+[Notice] 123.57.152.252:3128 Failed, <urlopen error timed out> 02-12 18:49:26
+[Notice] 122.224.65.201:3128 Failed, HTTP Error 500: Internal Server Error 02-12 18:49:26
+[Notice] 122.224.65.201:3128 Failed, [WinError 10054] 远程主机强迫关闭了一个现有的连接。 02-12 18:49:26
+[Notice] 119.90.53.51:3128 Failed, <urlopen error timed out> 02-12 18:49:34
+[Notice] 119.90.53.51:3128 Failed, <urlopen error timed out> 02-12 18:49:42
+[Notice] 60.167.132.74:8118 Failed, <urlopen error timed out> 02-12 18:49:50
+[Notice] 60.167.132.74:8118 Failed, <urlopen error timed out> 02-12 18:49:58
+[Notice] 153.101.64.40:12034 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:50:01
+[Notice] 153.101.64.40:12034 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:50:03
+[Notice] 119.90.53.45:3128 Failed, <urlopen error timed out> 02-12 18:50:11
+[Notice] 119.90.53.45:3128 Failed, <urlopen error timed out> 02-12 18:50:19
+[Notice] 110.99.148.5:8121 Failed, <urlopen error timed out> 02-12 18:50:27
+[Notice] 110.99.148.5:8121 Failed, <urlopen error timed out> 02-12 18:50:35
+[Notice] 219.131.242.150:9797 Failed, <urlopen error timed out> 02-12 18:50:43
+[Notice] 219.131.242.150:9797 Failed, <urlopen error timed out> 02-12 18:50:51
+[Notice] 116.62.50.149:3128 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:50:53
+[Notice] 116.62.50.149:3128 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:50:55
+[Notice] 27.215.250.106:9999 Failed, <urlopen error timed out> 02-12 18:51:03
+[Notice] 27.215.250.106:9999 Failed, <urlopen error timed out> 02-12 18:51:11
+[Notice] 118.89.234.236:8787 Failed, <urlopen error timed out> 02-12 18:51:19
+[Notice] 118.89.234.236:8787 Passed on [Target CD.txt] 02-12 18:51:24
+[Notice] 113.59.99.138:8910 Failed, <urlopen error timed out> 02-12 18:51:32
+[Notice] 113.59.99.138:8910 Failed, <urlopen error timed out> 02-12 18:51:40
+[Notice] 114.231.42.132:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:51:42
+[Notice] 114.231.42.132:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:51:44
+[Notice] 111.72.25.5:9999 Failed, timed out 02-12 18:51:55
+[Notice] 111.72.25.5:9999 Failed, timed out 02-12 18:52:03
+[Notice] 115.216.57.201:9999 Failed, [WinError 10054] 远程主机强迫关闭了一个现有的连接。 02-12 18:52:09
+[Notice] 115.216.57.201:9999 Failed, <urlopen error timed out> 02-12 18:52:17
+[Notice] 58.212.42.210:9999 Failed, <urlopen error timed out> 02-12 18:52:25
+[Notice] 58.212.42.210:9999 Failed, <urlopen error timed out> 02-12 18:52:33
+[Notice] 49.76.188.114:9999 Passed on [Target Baidu.txt] 02-12 18:52:33
+[Notice] 49.76.188.114:9999 Passed on [Target CD.txt] 02-12 18:52:38
+[Notice] 112.85.127.71:9999 Failed, <urlopen error timed out> 02-12 18:52:46
+[Notice] 112.85.127.71:9999 Failed, <urlopen error timed out> 02-12 18:52:54
+[Notice] 123.163.122.9:9999 Failed, <urlopen error timed out> 02-12 18:53:02
+[Notice] 123.163.122.9:9999 Failed, <urlopen error timed out> 02-12 18:53:10
+[Notice] 112.85.151.246:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:53:13
+[Notice] 112.85.151.246:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:53:15
+[Notice] 123.149.136.161:9999 Passed on [Target Baidu.txt] 02-12 18:53:15
+[Notice] 123.149.136.161:9999 Passed on [Target CD.txt] 02-12 18:53:17
+[Notice] 60.167.112.158:9999 Failed, <urlopen error timed out> 02-12 18:53:25
+[Notice] 60.167.112.158:9999 Failed, <urlopen error timed out> 02-12 18:53:33
+[Notice] 115.216.40.75:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:53:35
+[Notice] 115.216.40.75:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:53:37
+[Notice] 183.166.132.228:9999 Failed, <urlopen error timed out> 02-12 18:53:45
+[Notice] 183.166.132.228:9999 Failed, <urlopen error timed out> 02-12 18:53:53
+[Notice] 112.85.162.125:9999 Failed, <urlopen error timed out> 02-12 18:54:01
+[Notice] 112.85.162.125:9999 Failed, <urlopen error timed out> 02-12 18:54:09
+[Notice] 220.176.40.68:9999 Failed, <urlopen error timed out> 02-12 18:54:17
+[Notice] 220.176.40.68:9999 Failed, <urlopen error timed out> 02-12 18:54:25
+[Notice] 223.241.119.19:18118 Failed, <urlopen error timed out> 02-12 18:54:33
+[Notice] 223.241.119.19:18118 Failed, <urlopen error timed out> 02-12 18:54:41
+[Notice] 222.190.163.150:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:54:43
+[Notice] 222.190.163.150:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:54:45
+[Notice] 114.224.20.179:9999 Failed, timed out 02-12 18:54:53
+[Notice] 114.224.20.179:9999 Failed, timed out 02-12 18:55:02
+[Notice] 117.88.177.215:3000 Failed, <urlopen error timed out> 02-12 18:55:10
+[Notice] 117.88.177.215:3000 Failed, <urlopen error timed out> 02-12 18:55:18
+[Notice] 114.235.86.10:9999 Failed, <urlopen error timed out> 02-12 18:55:26
+[Notice] 114.235.86.10:9999 Failed, <urlopen error timed out> 02-12 18:55:34
+[Notice] 49.77.210.95:9999 Failed, <urlopen error timed out> 02-12 18:55:42
+[Notice] 49.77.210.95:9999 Failed, <urlopen error timed out> 02-12 18:55:50
+[Notice] 223.199.27.10:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:55:52
+[Notice] 223.199.27.10:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:55:54
+[Notice] 123.149.137.67:9999 Failed, <urlopen error timed out> 02-12 18:56:02
+[Notice] 123.149.137.67:9999 Failed, <urlopen error timed out> 02-12 18:56:10
+[Notice] 113.195.205.116:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:56:13
+[Notice] 113.195.205.116:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:56:15
+[Notice] 220.176.46.77:9999 Failed, <urlopen error timed out> 02-12 18:56:23
+[Notice] 220.176.46.77:9999 Failed, <urlopen error timed out> 02-12 18:56:31
+[Notice] 112.87.78.102:9999 Failed, <urlopen error timed out> 02-12 18:56:39
+[Notice] 112.87.78.102:9999 Failed, <urlopen error timed out> 02-12 18:56:47
+[Notice] 111.79.45.239:9999 Failed, <urlopen error timed out> 02-12 18:56:55
+[Notice] 111.79.45.239:9999 Failed, <urlopen error timed out> 02-12 18:57:03
+[Notice] 123.149.141.23:9999 Failed, timed out 02-12 18:57:11
+[Notice] 123.149.141.23:9999 Failed, timed out 02-12 18:57:19
+[Notice] 59.52.187.167:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:57:21
+[Notice] 59.52.187.167:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:57:23
+[Notice] 182.46.111.189:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:57:25
+[Notice] 182.46.111.189:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:57:27
+[Notice] 114.99.5.162:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:57:29
+[Notice] 114.99.5.162:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:57:31
+[Notice] 220.176.33.142:9999 Failed, <urlopen error timed out> 02-12 18:57:39
+[Notice] 220.176.33.142:9999 Failed, <urlopen error timed out> 02-12 18:57:47
+[Notice] 60.167.132.90:9999 Passed on [Target Baidu.txt] 02-12 18:57:48
+[Notice] 60.167.132.90:9999 Passed on [Target CD.txt] 02-12 18:57:49
+[Notice] 220.175.145.250:9999 Failed, timed out 02-12 18:58:04
+[Notice] 220.175.145.250:9999 Failed, <urlopen error timed out> 02-12 18:58:12
+[Notice] 223.199.28.161:9999 Failed, <urlopen error timed out> 02-12 18:58:20
+[Notice] 223.199.28.161:9999 Failed, <urlopen error timed out> 02-12 18:58:28
+[Notice] 113.194.29.100:9999 Failed, <urlopen error timed out> 02-12 18:58:36
+[Notice] 113.194.29.100:9999 Failed, <urlopen error timed out> 02-12 18:58:44
+[Notice] 114.231.41.61:9999 Failed, <urlopen error timed out> 02-12 18:58:52
+[Notice] 114.231.41.61:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 18:58:54
+[Notice] 114.99.9.116:9999 Failed, <urlopen error timed out> 02-12 18:59:02
+[Notice] 114.99.9.116:9999 Failed, <urlopen error timed out> 02-12 18:59:10
+[Notice] 114.99.234.14:9999 Failed, <urlopen error timed out> 02-12 18:59:18
+[Notice] 114.99.234.14:9999 Failed, <urlopen error timed out> 02-12 18:59:26
+[Notice] 223.242.225.254:9999 Failed, <urlopen error timed out> 02-12 18:59:34
+[Notice] 223.242.225.254:9999 Failed, <urlopen error timed out> 02-12 18:59:42
+[Notice] 220.175.144.4:9999 Failed, <urlopen error timed out> 02-12 18:59:50
+[Notice] 220.175.144.4:9999 Failed, <urlopen error timed out> 02-12 18:59:58
+[Notice] 60.167.21.91:9999 Failed, <urlopen error timed out> 02-12 19:00:06
+[Notice] 60.167.21.91:9999 Failed, <urlopen error timed out> 02-12 19:00:14
+[Notice] 114.104.185.110:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:00:16
+[Notice] 114.104.185.110:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:00:18
+[Notice] 114.99.27.253:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:00:20
+[Notice] 114.99.27.253:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:00:22
+[Notice] 58.212.206.27:9999 Failed, <urlopen error timed out> 02-12 19:00:30
+[Notice] 58.212.206.27:9999 Failed, <urlopen error timed out> 02-12 19:00:38
+[Notice] 114.223.211.24:9999 Failed, <urlopen error timed out> 02-12 19:00:46
+[Notice] 114.223.211.24:9999 Failed, <urlopen error timed out> 02-12 19:00:54
+[Notice] 182.34.220.89:9999 Failed, <urlopen error timed out> 02-12 19:01:02
+[Notice] 182.34.220.89:9999 Failed, <urlopen error timed out> 02-12 19:01:10
+[Notice] 59.52.185.247:9999 Failed, <urlopen error timed out> 02-12 19:01:18
+[Notice] 59.52.185.247:9999 Failed, <urlopen error timed out> 02-12 19:01:26
+[Notice] 114.99.234.240:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:01:28
+[Notice] 114.99.234.240:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:01:30
+[Notice] 220.175.144.62:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:01:32
+[Notice] 220.175.144.62:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:01:35
+[Notice] 114.99.29.69:9999 Failed, HTTP Error 403: Forbidden 02-12 19:01:36
+[Notice] 114.99.29.69:9999 Failed, HTTP Error 403: Forbidden 02-12 19:01:37
+[Notice] 114.99.23.100:808 Failed, <urlopen error timed out> 02-12 19:01:45
+[Notice] 114.99.23.100:808 Failed, <urlopen error timed out> 02-12 19:01:53
+[Notice] 114.99.23.200:9999 Failed, <urlopen error timed out> 02-12 19:02:01
+[Notice] 114.99.23.200:9999 Failed, <urlopen error timed out> 02-12 19:02:09
+[Notice] 117.68.195.163:9999 Failed, <urlopen error timed out> 02-12 19:02:17
+[Notice] 117.68.195.163:9999 Failed, <urlopen error timed out> 02-12 19:02:25
+[Notice] 112.85.125.13:9999 Failed, <urlopen error timed out> 02-12 19:02:33
+[Notice] 112.85.125.13:9999 Failed, <urlopen error timed out> 02-12 19:02:41
+[Notice] 114.99.16.59:9999 Failed, <urlopen error timed out> 02-12 19:02:49
+[Notice] 114.99.16.59:9999 Failed, <urlopen error timed out> 02-12 19:02:58
+[Notice] 122.193.229.24:9999 Failed, <urlopen error timed out> 02-12 19:03:06
+[Notice] 122.193.229.24:9999 Failed, <urlopen error timed out> 02-12 19:03:14
+[Notice] 182.108.47.157:9999 Failed, <urlopen error timed out> 02-12 19:03:22
+[Notice] 182.108.47.157:9999 Failed, <urlopen error timed out> 02-12 19:03:30
+[Notice] 182.108.62.152:9999 Failed, <urlopen error timed out> 02-12 19:03:38
+[Notice] 182.108.62.152:9999 Failed, <urlopen error timed out> 02-12 19:03:46
+[Notice] 60.167.82.232:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:03:48
+[Notice] 60.167.82.232:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:03:50
+[Notice] 114.99.9.28:808 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:03:54
+[Notice] 114.99.9.28:808 Failed, <urlopen error timed out> 02-12 19:04:02
+[Notice] 183.166.133.183:9999 Failed, <urlopen error timed out> 02-12 19:04:10
+[Notice] 183.166.133.183:9999 Failed, <urlopen error timed out> 02-12 19:04:18
+[Notice] 36.248.132.87:9999 Failed, <urlopen error timed out> 02-12 19:04:26
+[Notice] 36.248.132.87:9999 Failed, <urlopen error timed out> 02-12 19:04:34
+[Notice] 175.42.68.163:9999 Failed, timed out 02-12 19:04:42
+[Notice] 175.42.68.163:9999 Failed, timed out 02-12 19:04:50
+[Notice] 58.212.40.124:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:04:52
+[Notice] 58.212.40.124:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:04:54
+[Notice] 221.229.252.98:8080 Failed, <urlopen error timed out> 02-12 19:05:02
+[Notice] 221.229.252.98:8080 Failed, <urlopen error timed out> 02-12 19:05:10
+[Notice] 114.99.130.69:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:05:12
+[Notice] 114.99.130.69:9999 Failed, <urlopen error timed out> 02-12 19:05:20
+[Notice] 49.76.198.136:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:05:22
+[Notice] 49.76.198.136:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:05:24
+[Notice] 113.121.189.70:9999 Failed, <urlopen error timed out> 02-12 19:05:32
+[Notice] 113.121.189.70:9999 Failed, <urlopen error timed out> 02-12 19:05:40
+[Notice] 114.99.234.244:9999 Failed, <urlopen error timed out> 02-12 19:05:48
+[Notice] 114.99.234.244:9999 Failed, <urlopen error timed out> 02-12 19:05:56
+[Notice] 180.122.146.84:26796 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:05:58
+[Notice] 180.122.146.84:26796 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:06:00
+[Notice] 115.216.79.253:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:06:03
+[Notice] 115.216.79.253:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:06:06
+[Notice] 114.226.245.208:9999 Passed on [Target Baidu.txt] 02-12 19:06:06
+[Notice] 114.226.245.208:9999 Passed on [Target CD.txt] 02-12 19:06:08
+[Notice] 112.87.77.106:9999 Failed, <urlopen error timed out> 02-12 19:06:16
+[Notice] 112.87.77.106:9999 Failed, <urlopen error timed out> 02-12 19:06:24
+[Notice] 113.124.86.77:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:06:26
+[Notice] 113.124.86.77:9999 Failed, <urlopen error timed out> 02-12 19:06:34
+[Notice] 122.231.156.160:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:06:36
+[Notice] 122.231.156.160:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:06:38
+[Notice] 171.35.221.154:9999 Failed, <urlopen error timed out> 02-12 19:06:46
+[Notice] 171.35.221.154:9999 Failed, <urlopen error timed out> 02-12 19:06:54
+[Notice] 27.215.9.238:9999 Failed, <urlopen error timed out> 02-12 19:07:02
+[Notice] 27.215.9.238:9999 Failed, <urlopen error timed out> 02-12 19:07:10
+[Notice] 111.79.44.68:9999 Failed, <urlopen error timed out> 02-12 19:07:18
+[Notice] 111.79.44.68:9999 Failed, <urlopen error timed out> 02-12 19:07:26
+[Notice] 117.26.40.182:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:07:28
+[Notice] 117.26.40.182:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:07:30
+[Notice] 114.99.3.195:9999 Passed on [Target Baidu.txt] 02-12 19:07:31
+[Notice] 114.99.3.195:9999 Passed on [Target CD.txt] 02-12 19:07:33
+[Notice] 114.226.246.17:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:07:35
+[Notice] 114.226.246.17:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:07:37
+[Notice] 111.79.44.158:9999 Failed, <urlopen error timed out> 02-12 19:07:45
+[Notice] 111.79.44.158:9999 Failed, <urlopen error timed out> 02-12 19:07:53
+[Notice] 61.145.49.96:9999 Failed, <urlopen error timed out> 02-12 19:08:01
+[Notice] 61.145.49.96:9999 Failed, <urlopen error timed out> 02-12 19:08:09
+[Notice] 115.216.59.242:9999 Failed, <urlopen error timed out> 02-12 19:08:17
+[Notice] 115.216.59.242:9999 Failed, <urlopen error timed out> 02-12 19:08:25
+[Notice] 182.38.248.21:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:08:28
+[Notice] 182.38.248.21:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:08:30
+[Notice] 114.99.12.32:29808 Failed, <urlopen error timed out> 02-12 19:08:38
+[Notice] 114.99.12.32:29808 Failed, <urlopen error timed out> 02-12 19:08:46
+[Notice] 175.42.122.50:9999 Failed, <urlopen error timed out> 02-12 19:08:54
+[Notice] 175.42.122.50:9999 Failed, <urlopen error timed out> 02-12 19:09:02
+[Notice] 115.216.42.128:9999 Failed, <urlopen error timed out> 02-12 19:09:10
+[Notice] 115.216.42.128:9999 Failed, <urlopen error timed out> 02-12 19:09:18
+[Notice] 36.27.30.15:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:09:21
+[Notice] 36.27.30.15:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:09:25
+[Notice] 60.168.206.80:9999 Failed, <urlopen error timed out> 02-12 19:09:33
+[Notice] 60.168.206.80:9999 Failed, <urlopen error timed out> 02-12 19:09:41
+[Notice] 59.52.187.183:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:09:43
+[Notice] 59.52.187.183:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:09:47
+[Notice] 59.52.186.240:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:09:49
+[Notice] 59.52.186.240:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:09:51
+[Notice] 36.248.129.115:9999 Failed, <urlopen error timed out> 02-12 19:09:59
+[Notice] 36.248.129.115:9999 Failed, <urlopen error timed out> 02-12 19:10:07
+[Notice] 218.21.230.156:808 Failed, [WinError 10054] 远程主机强迫关闭了一个现有的连接。 02-12 19:10:07
+[Notice] 218.21.230.156:808 Failed, [WinError 10054] 远程主机强迫关闭了一个现有的连接。 02-12 19:10:07
+[Notice] 218.60.8.83:3129 Failed, HTTP Error 503: Service Unavailable 02-12 19:10:08
+[Notice] 218.60.8.83:3129 Failed, timed out 02-12 19:10:16
+[Notice] 58.212.41.135:9999 Failed, <urlopen error timed out> 02-12 19:10:24
+[Notice] 58.212.41.135:9999 Failed, <urlopen error timed out> 02-12 19:10:32
+[Notice] 220.175.145.203:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:10:34
+[Notice] 220.175.145.203:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:10:36
+[Notice] 117.64.236.131:9999 Failed, <urlopen error timed out> 02-12 19:10:44
+[Notice] 117.64.236.131:9999 Failed, <urlopen error timed out> 02-12 19:10:52
+[Notice] 125.123.137.134:9999 Failed, <urlopen error timed out> 02-12 19:11:00
+[Notice] 125.123.137.134:9999 Failed, <urlopen error timed out> 02-12 19:11:08
+[Notice] 121.20.104.209:9999 Failed, <urlopen error timed out> 02-12 19:11:16
+[Notice] 121.20.104.209:9999 Failed, <urlopen error timed out> 02-12 19:11:24
+[Notice] 122.193.231.37:9999 Failed, <urlopen error timed out> 02-12 19:11:32
+[Notice] 122.193.231.37:9999 Failed, <urlopen error timed out> 02-12 19:11:40
+[Notice] 223.199.23.181:9999 Failed, HTTP Error 403: Forbidden 02-12 19:11:40
+[Notice] 223.199.23.181:9999 Failed, HTTP Error 403: Forbidden 02-12 19:11:40
+[Notice] 111.79.44.185:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:11:43
+[Notice] 111.79.44.185:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:11:45
+[Notice] 1.196.177.199:9999 Failed, timed out 02-12 19:11:53
+[Notice] 1.196.177.199:9999 Failed, timed out 02-12 19:12:04
+[Notice] 114.99.234.152:9999 Failed, <urlopen error timed out> 02-12 19:12:12
+[Notice] 114.99.234.152:9999 Failed, <urlopen error timed out> 02-12 19:12:20
+[Notice] 175.154.117.27:9999 Failed, <urlopen error timed out> 02-12 19:12:28
+[Notice] 175.154.117.27:9999 Failed, <urlopen error timed out> 02-12 19:12:36
+[Notice] 49.76.193.203:9999 Passed on [Target Baidu.txt] 02-12 19:12:36
+[Notice] 49.76.193.203:9999 Passed on [Target CD.txt] 02-12 19:12:38
+[Notice] 220.175.145.190:9999 Failed, timed out 02-12 19:12:46
+[Notice] 220.175.145.190:9999 Failed, timed out 02-12 19:12:54
+[Notice] 60.168.81.206:9999 Failed, <urlopen error timed out> 02-12 19:13:02
+[Notice] 60.168.81.206:9999 Failed, <urlopen error timed out> 02-12 19:13:10
+[Notice] 36.27.28.240:9999 Failed, <urlopen error timed out> 02-12 19:13:18
+[Notice] 36.27.28.240:9999 Failed, <urlopen error timed out> 02-12 19:13:26
+[Notice] 115.216.43.75:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:13:28
+[Notice] 115.216.43.75:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:13:30
+[Notice] 114.231.41.142:9999 Failed, timed out 02-12 19:13:41
+[Notice] 114.231.41.142:9999 Failed, <urlopen error timed out> 02-12 19:13:49
+[Notice] 1.196.105.218:9999 Failed, <urlopen error timed out> 02-12 19:13:57
+[Notice] 1.196.105.218:9999 Failed, <urlopen error timed out> 02-12 19:14:05
+[Notice] 60.167.82.56:9999 Failed, <urlopen error timed out> 02-12 19:14:13
+[Notice] 60.167.82.56:9999 Failed, <urlopen error timed out> 02-12 19:14:21
+[Notice] 112.87.78.127:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:14:24
+[Notice] 112.87.78.127:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:14:26
+[Notice] 114.226.246.144:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:14:28
+[Notice] 114.226.246.144:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:14:30
+[Notice] 114.226.245.23:9999 Passed on [Target Baidu.txt] 02-12 19:14:30
+[Notice] 114.226.245.23:9999 Passed on [Target CD.txt] 02-12 19:14:33
+[Notice] 117.88.176.9:3000 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:14:35
+[Notice] 117.88.176.9:3000 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:14:37
+[Notice] 1.196.177.252:9999 Failed, timed out 02-12 19:15:23
+[Notice] 123.149.137.179:9999 Failed, <urlopen error timed out> 02-12 19:15:31
+[Notice] 123.149.137.179:9999 Failed, <urlopen error timed out> 02-12 19:15:39
+[Notice] 183.146.156.3:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:15:41
+[Notice] 183.146.156.3:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:15:43
+[Notice] 114.226.162.108:9999 Failed, <urlopen error timed out> 02-12 19:15:51
+[Notice] 114.226.162.108:9999 Failed, <urlopen error timed out> 02-12 19:15:59
+[Notice] 123.149.137.42:9999 Failed, <urlopen error timed out> 02-12 19:16:07
+[Notice] 123.149.137.42:9999 Failed, <urlopen error timed out> 02-12 19:16:15
+[Notice] 58.212.43.96:9999 Failed, <urlopen error timed out> 02-12 19:16:23
+[Notice] 58.212.43.96:9999 Failed, <urlopen error timed out> 02-12 19:16:31
+[Notice] 183.166.163.17:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:16:34
+[Notice] 183.166.163.17:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:16:36
+[Notice] 49.77.208.140:9999 Failed, timed out 02-12 19:17:07
+[Notice] 49.77.208.140:9999 Passed on [Target CD.txt] 02-12 19:17:11
+[Notice] 120.83.105.113:9999 Failed, <urlopen error timed out> 02-12 19:17:19
+[Notice] 120.83.105.113:9999 Failed, <urlopen error timed out> 02-12 19:17:27
+[Notice] 114.231.41.54:9999 Failed, <urlopen error timed out> 02-12 19:17:35
+[Notice] 114.231.41.54:9999 Failed, <urlopen error timed out> 02-12 19:17:43
+[Notice] 60.167.21.83:9999 Failed, <urlopen error timed out> 02-12 19:17:51
+[Notice] 60.167.21.83:9999 Failed, <urlopen error timed out> 02-12 19:17:59
+[Notice] 123.149.136.164:9999 Failed, <urlopen error timed out> 02-12 19:18:07
+[Notice] 123.149.136.164:9999 Failed, timed out 02-12 19:18:16
+[Notice] 36.27.30.244:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:18:22
+[Notice] 36.27.30.244:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:18:24
+[Notice] 114.223.62.91:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:18:26
+[Notice] 114.223.62.91:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:18:28
+[Notice] 220.175.144.140:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:18:30
+[Notice] 220.175.144.140:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:18:33
+[Notice] 183.159.114.197:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:18:35
+[Notice] 183.159.114.197:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:18:37
+[Notice] 60.167.22.218:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:18:39
+[Notice] 60.167.22.218:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:18:41
+[Notice] 60.167.22.18:9999 Failed, <urlopen error timed out> 02-12 19:18:49
+[Notice] 60.167.22.18:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:18:51
+[Notice] 223.199.17.178:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:18:53
+[Notice] 223.199.17.178:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:18:55
+[Notice] 180.122.180.192:9999 Failed, <urlopen error timed out> 02-12 19:19:03
+[Notice] 180.122.180.192:9999 Failed, <urlopen error timed out> 02-12 19:19:11
+[Notice] 60.167.102.255:9999 Failed, <urlopen error timed out> 02-12 19:19:19
+[Notice] 60.167.102.255:9999 Failed, <urlopen error timed out> 02-12 19:19:27
+[Notice] 111.79.45.223:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:19:29
+[Notice] 111.79.45.223:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:19:32
+[Notice] 122.231.29.138:9999 Passed on [Target Baidu.txt] 02-12 19:19:36
+[Notice] 122.231.29.138:9999 Failed, timed out 02-12 19:19:44
+[Notice] 115.216.40.39:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:19:46
+[Notice] 115.216.40.39:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:19:49
+[Notice] 123.149.136.168:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:19:51
+[Notice] 123.149.136.168:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:19:53
+[Notice] 119.5.34.5:9999 Failed, <urlopen error timed out> 02-12 19:20:01
+[Notice] 119.5.34.5:9999 Failed, <urlopen error timed out> 02-12 19:20:09
+[Notice] 27.152.194.53:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:20:11
+[Notice] 27.152.194.53:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:20:13
+[Notice] 59.52.184.87:9999 Failed, <urlopen error timed out> 02-12 19:20:21
+[Notice] 59.52.184.87:9999 Failed, <urlopen error timed out> 02-12 19:20:29
+[Notice] 220.184.25.211:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:20:31
+[Notice] 220.184.25.211:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:20:33
+[Notice] 58.253.153.200:9999 Failed, <urlopen error timed out> 02-12 19:20:41
+[Notice] 58.253.153.200:9999 Failed, <urlopen error timed out> 02-12 19:20:49
+[Notice] 182.34.36.162:9999 Failed, <urlopen error timed out> 02-12 19:20:57
+[Notice] 182.34.36.162:9999 Failed, <urlopen error timed out> 02-12 19:21:05
+[Notice] 122.4.45.8:9999 Failed, timed out 02-12 19:21:16
+[Notice] 122.4.45.8:9999 Failed, timed out 02-12 19:21:25
+[Notice] 49.77.209.51:9999 Failed, <urlopen error timed out> 02-12 19:21:33
+[Notice] 49.77.209.51:9999 Failed, <urlopen error timed out> 02-12 19:21:41
+[Notice] 122.228.19.92:3389 Failed, <urlopen error timed out> 02-12 19:21:49
+[Notice] 122.228.19.92:3389 Passed on [Target CD.txt] 02-12 19:21:57
+[Notice] 115.239.63.115:9999 Failed, <urlopen error timed out> 02-12 19:22:05
+[Notice] 115.239.63.115:9999 Failed, <urlopen error timed out> 02-12 19:22:13
+[Notice] 183.154.52.222:9999 Failed, <urlopen error timed out> 02-12 19:22:21
+[Notice] 183.154.52.222:9999 Failed, <urlopen error timed out> 02-12 19:22:29
+[Notice] 49.85.85.23:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:22:31
+[Notice] 49.85.85.23:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:22:33
+[Notice] 123.149.137.244:9999 Failed, <urlopen error timed out> 02-12 19:22:41
+[Notice] 123.149.137.244:9999 Failed, <urlopen error timed out> 02-12 19:22:49
+[Notice] 27.215.192.15:9999 Failed, <urlopen error timed out> 02-12 19:22:57
+[Notice] 27.215.192.15:9999 Failed, <urlopen error timed out> 02-12 19:23:05
+[Notice] 113.195.170.170:9999 Failed, <urlopen error timed out> 02-12 19:23:13
+[Notice] 113.195.170.170:9999 Failed, <urlopen error timed out> 02-12 19:23:21
+[Notice] 175.154.120.203:9999 Failed, <urlopen error timed out> 02-12 19:23:29
+[Notice] 175.154.120.203:9999 Failed, <urlopen error timed out> 02-12 19:23:37
+[Notice] 114.226.244.188:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:23:39
+[Notice] 114.226.244.188:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:23:42
+[Notice] 120.83.111.97:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:23:44
+[Notice] 120.83.111.97:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:23:46
+[Notice] 112.87.76.71:9999 Failed, <urlopen error timed out> 02-12 19:23:54
+[Notice] 112.87.76.71:9999 Failed, <urlopen error timed out> 02-12 19:24:02
+[Notice] 111.79.45.19:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:24:04
+[Notice] 111.79.45.19:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:24:06
+[Notice] 111.79.45.157:9999 Failed, <urlopen error timed out> 02-12 19:24:14
+[Notice] 111.79.45.157:9999 Failed, <urlopen error timed out> 02-12 19:24:22
+[Notice] 110.87.248.160:9999 Failed, <urlopen error timed out> 02-12 19:24:30
+[Notice] 110.87.248.160:9999 Failed, <urlopen error timed out> 02-12 19:24:38
+[Notice] 27.215.7.68:9999 Failed, <urlopen error timed out> 02-12 19:24:46
+[Notice] 27.215.7.68:9999 Failed, <urlopen error timed out> 02-12 19:24:54
+[Notice] 60.167.134.153:45419 Failed, <urlopen error timed out> 02-12 19:25:02
+[Notice] 60.167.134.153:45419 Failed, <urlopen error timed out> 02-12 19:25:10
+[Notice] 182.108.44.126:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:25:12
+[Notice] 182.108.44.126:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:25:15
+[Notice] 123.169.169.219:9999 Failed, <urlopen error timed out> 02-12 19:25:23
+[Notice] 123.169.169.219:9999 Failed, <urlopen error timed out> 02-12 19:25:31
+[Notice] 171.35.212.238:9999 Failed, <urlopen error timed out> 02-12 19:25:39
+[Notice] 171.35.212.238:9999 Failed, <urlopen error timed out> 02-12 19:25:47
+[Notice] 49.86.183.233:9999 Failed, <urlopen error timed out> 02-12 19:25:55
+[Notice] 49.86.183.233:9999 Failed, <urlopen error timed out> 02-12 19:26:03
+[Notice] 163.204.242.173:9999 Failed, <urlopen error timed out> 02-12 19:26:11
+[Notice] 163.204.242.173:9999 Failed, <urlopen error timed out> 02-12 19:26:19
+[Notice] 112.85.127.33:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:26:21
+[Notice] 112.85.127.33:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:26:23
+[Notice] 112.85.127.196:9999 Failed, <urlopen error timed out> 02-12 19:26:31
+[Notice] 112.85.127.196:9999 Failed, <urlopen error timed out> 02-12 19:26:39
+[Notice] 110.243.27.191:9999 Failed, timed out 02-12 19:26:48
+[Notice] 110.243.27.191:9999 Failed, timed out 02-12 19:26:59
+[Notice] 123.149.137.187:9999 Failed, <urlopen error timed out> 02-12 19:27:07
+[Notice] 123.149.137.187:9999 Failed, <urlopen error timed out> 02-12 19:27:15
+[Notice] 60.167.133.47:808 Failed, <urlopen error timed out> 02-12 19:27:23
+[Notice] 60.167.133.47:808 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:27:27
+[Notice] 183.166.133.42:9999 Failed, <urlopen error timed out> 02-12 19:27:35
+[Notice] 183.166.133.42:9999 Failed, <urlopen error timed out> 02-12 19:27:43
+[Notice] 183.166.163.49:9999 Failed, <urlopen error timed out> 02-12 19:27:51
+[Notice] 183.166.163.49:9999 Failed, <urlopen error timed out> 02-12 19:27:59
+[Notice] 182.46.197.181:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:28:01
+[Notice] 182.46.197.181:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:28:03
+[Notice] 123.169.163.4:9999 Failed, <urlopen error timed out> 02-12 19:28:11
+[Notice] 123.169.163.4:9999 Failed, <urlopen error timed out> 02-12 19:28:19
+[Notice] 113.116.6.175:8118 Failed, Remote end closed connection without response 02-12 19:28:19
+[Notice] 113.116.6.175:8118 Passed on [Target CD.txt] 02-12 19:28:25
+[Notice] 111.79.44.39:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:28:27
+[Notice] 111.79.44.39:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:28:29
+[Notice] 112.85.177.243:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:28:31
+[Notice] 112.85.177.243:9999 Failed, <urlopen error timed out> 02-12 19:28:39
+[Notice] 222.189.191.18:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:28:41
+[Notice] 222.189.191.18:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:28:43
+[Notice] 115.210.70.163:9999 Failed, <urlopen error timed out> 02-12 19:28:51
+[Notice] 115.210.70.163:9999 Failed, <urlopen error timed out> 02-12 19:28:59
+[Notice] 220.175.144.69:9999 Failed, <urlopen error timed out> 02-12 19:29:07
+[Notice] 220.175.144.69:9999 Failed, <urlopen error timed out> 02-12 19:29:15
+[Notice] 112.85.163.147:9999 Failed, <urlopen error timed out> 02-12 19:29:23
+[Notice] 112.85.163.147:9999 Failed, <urlopen error timed out> 02-12 19:29:31
+[Notice] 220.176.46.249:9999 Failed, <urlopen error timed out> 02-12 19:29:39
+[Notice] 220.176.46.249:9999 Failed, <urlopen error timed out> 02-12 19:29:47
+[Notice] 114.99.23.16:9999 Failed, <urlopen error timed out> 02-12 19:29:55
+[Notice] 114.99.23.16:9999 Failed, <urlopen error timed out> 02-12 19:30:03
+[Notice] 114.223.113.212:9999 Failed, <urlopen error timed out> 02-12 19:30:11
+[Notice] 114.223.113.212:9999 Failed, <urlopen error timed out> 02-12 19:30:19
+[Notice] 182.46.197.225:9999 Failed, <urlopen error timed out> 02-12 19:30:28
+[Notice] 182.46.197.225:9999 Failed, <urlopen error timed out> 02-12 19:30:36
+[Notice] 114.99.8.74:9999 Failed, <urlopen error timed out> 02-12 19:30:44
+[Notice] 114.99.8.74:9999 Failed, <urlopen error timed out> 02-12 19:30:52
+[Notice] 114.99.234.154:9999 Failed, <urlopen error timed out> 02-12 19:31:00
+[Notice] 114.99.234.154:9999 Failed, <urlopen error timed out> 02-12 19:31:08
+[Notice] 123.163.27.61:9999 Failed, <urlopen error timed out> 02-12 19:31:16
+[Notice] 123.163.27.61:9999 Failed, <urlopen error timed out> 02-12 19:31:24
+[Notice] 175.42.123.170:9999 Failed, <urlopen error timed out> 02-12 19:31:32
+[Notice] 175.42.123.170:9999 Failed, <urlopen error timed out> 02-12 19:31:40
+[Notice] 121.233.206.214:9999 Failed, <urlopen error timed out> 02-12 19:31:48
+[Notice] 121.233.206.214:9999 Failed, <urlopen error timed out> 02-12 19:31:56
+[Notice] 223.241.118.95:808 Failed, <urlopen error timed out> 02-12 19:32:04
+[Notice] 223.241.118.95:808 Failed, <urlopen error timed out> 02-12 19:32:12
+[Notice] 114.99.131.50:9999 Failed, <urlopen error timed out> 02-12 19:32:20
+[Notice] 114.99.131.50:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:32:22
+[Notice] 123.149.136.9:9999 Failed, <urlopen error timed out> 02-12 19:32:30
+[Notice] 123.149.136.9:9999 Failed, <urlopen error timed out> 02-12 19:32:38
+[Notice] 12.218.209.130:53281 Failed, timed out 02-12 19:32:46
+[Notice] 12.218.209.130:53281 Failed, <urlopen error timed out> 02-12 19:32:54
+[Notice] 46.20.59.243:47497 Failed, <urlopen error timed out> 02-12 19:33:02
+[Notice] 46.20.59.243:47497 Passed on [Target CD.txt] 02-12 19:33:08
+[Notice] 121.237.148.146:3000 Passed on [Target Baidu.txt] 02-12 19:33:16
+[Notice] 106.75.177.227:8111 Failed, [WinError 10054] 远程主机强迫关闭了一个现有的连接。 02-12 19:33:30
+[Notice] 106.75.177.227:8111 Failed, [WinError 10054] 远程主机强迫关闭了一个现有的连接。 02-12 19:33:30
+[Notice] 120.83.99.56:9999 Failed, <urlopen error timed out> 02-12 19:33:38
+[Notice] 120.83.99.56:9999 Failed, <urlopen error timed out> 02-12 19:33:46
+[Notice] 139.9.113.234:443 Failed, IncompleteRead(27490 bytes read) 02-12 19:33:47
+[Notice] 139.9.113.234:443 Passed on [Target CD.txt] 02-12 19:33:49
+[Notice] 121.237.149.234:3000 Failed, <urlopen error timed out> 02-12 19:33:57
+[Notice] 121.237.149.234:3000 Failed, <urlopen error timed out> 02-12 19:34:05
+[Notice] 114.55.236.62:3128 Failed, <urlopen error timed out> 02-12 19:34:13
+[Notice] 114.55.236.62:3128 Failed, <urlopen error timed out> 02-12 19:34:21
+[Notice] 88.247.153.104:8080 Failed, <urlopen error timed out> 02-12 19:34:29
+[Notice] 88.247.153.104:8080 Failed, timed out 02-12 19:34:44
+[Notice] 39.137.95.71:80 Passed on [Target Baidu.txt] 02-12 19:34:46
+[Notice] 175.153.90.230:61234 Failed, Remote end closed connection without response 02-12 19:34:57
+[Notice] 175.153.90.230:61234 Failed, Remote end closed connection without response 02-12 19:34:58
+[Notice] 115.211.231.179:9999 Failed, <urlopen error timed out> 02-12 19:35:06
+[Notice] 115.211.231.179:9999 Failed, <urlopen error timed out> 02-12 19:35:14
+[Notice] 83.171.98.129:37819 Failed, <urlopen error timed out> 02-12 19:35:22
+[Notice] 83.171.98.129:37819 Failed, <urlopen error timed out> 02-12 19:35:30
+[Notice] 139.224.233.103:8118 Failed, [WinError 10054] 远程主机强迫关闭了一个现有的连接。 02-12 19:35:34
+[Notice] 139.224.233.103:8118 Failed, [WinError 10054] 远程主机强迫关闭了一个现有的连接。 02-12 19:35:36
+[Notice] 39.137.95.73:8080 Failed, timed out 02-12 19:35:46
+[Notice] 39.137.95.73:8080 Failed, IncompleteRead(16882 bytes read, 5831 more expected) 02-12 19:36:06
+[Notice] 113.59.99.138:8910 Failed, <urlopen error timed out> 02-12 19:36:14
+[Notice] 113.59.99.138:8910 Failed, <urlopen error timed out> 02-12 19:36:22
+[Notice] 222.190.163.12:9999 Failed, <urlopen error timed out> 02-12 19:36:30
+[Notice] 222.190.163.12:9999 Failed, <urlopen error timed out> 02-12 19:36:38
+[Notice] 223.241.118.255:9999 Failed, <urlopen error timed out> 02-12 19:36:46
+[Notice] 223.241.118.255:9999 Failed, <urlopen error timed out> 02-12 19:36:54
+[Notice] 115.216.59.158:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:36:56
+[Notice] 115.216.59.158:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:36:58
+[Notice] 103.216.82.200:6666 Failed, <urlopen error timed out> 02-12 19:37:06
+[Notice] 103.216.82.200:6666 Failed, <urlopen error timed out> 02-12 19:37:14
+[Notice] 89.203.249.206:8081 Failed, timed out 02-12 19:37:22
+[Notice] 89.203.249.206:8081 Failed, timed out 02-12 19:37:31
+[Notice] 113.106.14.214:8080 Failed, <urlopen error timed out> 02-12 19:37:39
+[Notice] 113.106.14.214:8080 Failed, <urlopen error timed out> 02-12 19:37:47
+[Notice] 1.20.156.230:80 Failed, timed out 02-12 19:38:01
+[Notice] 1.20.156.230:80 Failed, <urlopen error timed out> 02-12 19:38:09
+[Notice] 203.202.248.36:8080 Failed, <urlopen error timed out> 02-12 19:38:17
+[Notice] 203.202.248.36:8080 Failed, <urlopen error timed out> 02-12 19:38:25
+[Notice] 168.196.207.100:52821 Failed, <urlopen error timed out> 02-12 19:38:33
+[Notice] 168.196.207.100:52821 Failed, <urlopen error timed out> 02-12 19:38:41
+[Notice] 115.216.40.63:9999 Failed, HTTP Error 503: Service Unavailable 02-12 19:38:45
+[Notice] 115.216.40.63:9999 Failed, timed out 02-12 19:38:53
+[Notice] 122.138.141.76:9999 Failed, timed out 02-12 19:39:40
+[Notice] 182.108.47.132:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:39:42
+[Notice] 182.108.47.132:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:39:44
+[Notice] 113.106.14.216:8080 Failed, timed out 02-12 19:39:53
+[Notice] 113.106.14.216:8080 Passed on [Target CD.txt] 02-12 19:39:54
+[Notice] 114.99.8.160:9999 Failed, <urlopen error timed out> 02-12 19:40:02
+[Notice] 114.99.8.160:9999 Failed, <urlopen error timed out> 02-12 19:40:10
+[Notice] 103.216.82.199:6666 Failed, timed out 02-12 19:40:19
+[Notice] 103.216.82.199:6666 Failed, <urlopen error timed out> 02-12 19:40:27
+[Notice] 191.240.152.131:80 Failed, timed out 02-12 19:41:04
+[Notice] 191.240.152.131:80 Passed on [Target CD.txt] 02-12 19:41:08
+[Notice] 39.137.95.72:80 Passed on [Target Baidu.txt] 02-12 19:41:10
+[Notice] 39.137.95.72:80 Passed on [Target CD.txt] 02-12 19:41:12
+[Notice] 113.87.202.229:8118 Passed on [Target Baidu.txt] 02-12 19:41:13
+[Notice] 113.87.202.229:8118 Passed on [Target CD.txt] 02-12 19:41:14
+[Notice] 121.139.218.165:31409 Failed, <urlopen error timed out> 02-12 19:41:22
+[Notice] 121.139.218.165:31409 Failed, timed out 02-12 19:41:37
+[Notice] 27.68.135.14:30199 Failed, <urlopen error timed out> 02-12 19:41:45
+[Notice] 27.68.135.14:30199 Failed, <urlopen error timed out> 02-12 19:41:53
+[Notice] 124.205.11.245:8888 Passed on [Target Baidu.txt] 02-12 19:41:53
+[Notice] 124.205.11.245:8888 Failed, timed out 02-12 19:42:01
+[Notice] 183.82.32.153:55236 Failed, timed out 02-12 19:42:11
+[Notice] 183.82.32.153:55236 Failed, [WinError 10054] 远程主机强迫关闭了一个现有的连接。 02-12 19:42:18
+[Notice] 61.130.236.190:9999 Failed, <urlopen error timed out> 02-12 19:42:26
+[Notice] 61.130.236.190:9999 Failed, <urlopen error timed out> 02-12 19:42:34
+[Notice] 113.128.26.64:9999 Failed, <urlopen error timed out> 02-12 19:42:42
+[Notice] 113.128.26.64:9999 Failed, <urlopen error timed out> 02-12 19:42:50
+[Notice] 112.14.47.6:52024 Failed, <urlopen error timed out> 02-12 19:42:58
+[Notice] 112.14.47.6:52024 Failed, <urlopen error timed out> 02-12 19:43:06
+[Notice] 110.164.101.129:8080 Failed, <urlopen error timed out> 02-12 19:43:14
+[Notice] 110.164.101.129:8080 Failed, <urlopen error timed out> 02-12 19:43:22
+[Notice] 183.220.145.3:80 Failed, HTTP Error 403: Forbidden 02-12 19:43:22
+[Notice] 183.220.145.3:80 Failed, HTTP Error 403: Forbidden 02-12 19:43:22
+[Notice] 115.216.42.11:9999 Failed, <urlopen error timed out> 02-12 19:43:30
+[Notice] 115.216.42.11:9999 Failed, <urlopen error timed out> 02-12 19:43:38
+[Notice] 212.2.204.181:60725 Failed, timed out 02-12 19:43:47
+[Notice] 212.2.204.181:60725 Failed, timed out 02-12 19:44:02
+[Notice] 177.54.224.203:57871 Failed, <urlopen error timed out> 02-12 19:44:10
+[Notice] 177.54.224.203:57871 Failed, <urlopen error timed out> 02-12 19:44:18
+[Notice] 220.176.40.218:9999 Failed, <urlopen error timed out> 02-12 19:44:26
+[Notice] 220.176.40.218:9999 Failed, <urlopen error timed out> 02-12 19:44:34
+[Notice] 114.223.181.159:8118 Passed on [Target Baidu.txt] 02-12 19:44:35
+[Notice] 114.223.181.159:8118 Passed on [Target CD.txt] 02-12 19:44:42
+[Notice] 190.167.215.170:52479 Failed, <urlopen error timed out> 02-12 19:44:50
+[Notice] 190.167.215.170:52479 Failed, <urlopen error timed out> 02-12 19:44:58
+[Notice] 159.203.10.55:8118 Failed, [WinError 10054] 远程主机强迫关闭了一个现有的连接。 02-12 19:45:03
+[Notice] 159.203.10.55:8118 Passed on [Target CD.txt] 02-12 19:45:10
+[Notice] 168.196.207.100:52821 Failed, <urlopen error timed out> 02-12 19:45:18
+[Notice] 168.196.207.100:52821 Failed, <urlopen error timed out> 02-12 19:45:26
+[Notice] 115.216.40.63:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:45:28
+[Notice] 115.216.40.63:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:45:30
+[Notice] 122.138.141.76:9999 Failed, timed out 02-12 19:46:00
+[Notice] 122.138.141.76:9999 Failed, timed out 02-12 19:46:08
+[Notice] 182.108.47.132:9999 Failed, <urlopen error timed out> 02-12 19:46:16
+[Notice] 182.108.47.132:9999 Failed, <urlopen error timed out> 02-12 19:46:24
+[Notice] 113.106.14.216:8080 Failed, timed out 02-12 19:46:32
+[Notice] 113.106.14.216:8080 Passed on [Target CD.txt] 02-12 19:46:32
+[Notice] 114.99.8.160:9999 Failed, <urlopen error timed out> 02-12 19:46:40
+[Notice] 114.99.8.160:9999 Failed, <urlopen error timed out> 02-12 19:46:48
+[Notice] 177.22.24.230:3128 Failed, <urlopen error timed out> 02-12 19:46:56
+[Notice] 177.22.24.230:3128 Failed, <urlopen error timed out> 02-12 19:47:04
+[Notice] 103.216.82.199:6666 Failed, <urlopen error timed out> 02-12 19:47:12
+[Notice] 103.216.82.199:6666 Failed, <urlopen error timed out> 02-12 19:47:20
+[Notice] 191.240.152.131:80 Failed, timed out 02-12 19:47:48
+[Notice] 191.240.152.131:80 Failed, timed out 02-12 19:48:01
+[Notice] 194.135.42.74:8080 Failed, <urlopen error timed out> 02-12 19:48:09
+[Notice] 194.135.42.74:8080 Failed, <urlopen error timed out> 02-12 19:48:17
+[Notice] 39.137.95.72:80 Passed on [Target Baidu.txt] 02-12 19:48:19
+[Notice] 39.137.95.72:80 Passed on [Target CD.txt] 02-12 19:48:22
+[Notice] 113.87.202.229:8118 Passed on [Target Baidu.txt] 02-12 19:48:23
+[Notice] 113.87.202.229:8118 Failed, <urlopen error timed out> 02-12 19:48:31
+[Notice] 121.139.218.165:31409 Failed, <urlopen error timed out> 02-12 19:48:39
+[Notice] 121.139.218.165:31409 Failed, <urlopen error timed out> 02-12 19:48:47
+[Notice] 27.68.135.14:30199 Failed, <urlopen error timed out> 02-12 19:48:55
+[Notice] 27.68.135.14:30199 Failed, timed out 02-12 19:49:10
+[Notice] 124.205.11.245:8888 Passed on [Target Baidu.txt] 02-12 19:49:11
+[Notice] 124.205.11.245:8888 Failed, timed out 02-12 19:49:19
+[Notice] 183.82.32.153:55236 Failed, <urlopen error timed out> 02-12 19:49:27
+[Notice] 183.82.32.153:55236 Failed, timed out 02-12 19:49:38
+[Notice] 31.28.23.224:8080 Failed, <urlopen error timed out> 02-12 19:49:46
+[Notice] 31.28.23.224:8080 Failed, <urlopen error timed out> 02-12 19:49:54
+[Notice] 61.130.236.190:9999 Failed, <urlopen error timed out> 02-12 19:50:02
+[Notice] 61.130.236.190:9999 Failed, <urlopen error timed out> 02-12 19:50:10
+[Notice] 113.128.26.64:9999 Failed, <urlopen error timed out> 02-12 19:50:18
+[Notice] 113.128.26.64:9999 Failed, <urlopen error timed out> 02-12 19:50:26
+[Notice] 112.14.47.6:52024 Failed, Remote end closed connection without response 02-12 19:50:40
+[Notice] 112.14.47.6:52024 Failed, <urlopen error timed out> 02-12 19:50:48
+[Notice] 103.216.82.200:6666 Failed, <urlopen error timed out> 02-12 19:50:56
+[Notice] 103.216.82.200:6666 Failed, <urlopen error timed out> 02-12 19:51:04
+[Notice] 110.164.101.129:8080 Failed, <urlopen error timed out> 02-12 19:51:12
+[Notice] 110.164.101.129:8080 Failed, timed out 02-12 19:51:22
+[Notice] 115.216.42.11:9999 Failed, <urlopen error timed out> 02-12 19:51:30
+[Notice] 115.216.42.11:9999 Failed, <urlopen error timed out> 02-12 19:51:38
+[Notice] 177.54.224.203:57871 Failed, <urlopen error timed out> 02-12 19:51:46
+[Notice] 177.54.224.203:57871 Failed, timed out 02-12 19:51:54
+[Notice] 220.176.40.218:9999 Failed, <urlopen error timed out> 02-12 19:52:02
+[Notice] 220.176.40.218:9999 Failed, <urlopen error timed out> 02-12 19:52:10
+[Notice] 114.223.181.159:8118 Passed on [Target Baidu.txt] 02-12 19:52:10
+[Notice] 114.223.181.159:8118 Failed, Remote end closed connection without response 02-12 19:52:10
+[Notice] 190.167.215.170:52479 Failed, Remote end closed connection without response 02-12 19:52:15
+[Notice] 190.167.215.170:52479 Failed, <urlopen error timed out> 02-12 19:52:23
+[Notice] 118.174.46.162:8080 Failed, <urlopen error timed out> 02-12 19:52:31
+[Notice] 118.174.46.162:8080 Failed, <urlopen error timed out> 02-12 19:52:39
+[Notice] 117.88.176.222:3000 Passed on [Target Baidu.txt] 02-12 19:52:42
+[Notice] 117.88.176.222:3000 Passed on [Target CD.txt] 02-12 19:52:44
+[Notice] 117.88.4.170:3000 Failed, <urlopen error timed out> 02-12 19:52:52
+[Notice] 117.88.4.170:3000 Failed, <urlopen error timed out> 02-12 19:53:00
+[Notice] 60.167.21.198:9999 Failed, <urlopen error timed out> 02-12 19:53:08
+[Notice] 60.167.21.198:9999 Failed, <urlopen error timed out> 02-12 19:53:16
+[Notice] 222.95.144.57:3000 Failed, <urlopen error timed out> 02-12 19:53:24
+[Notice] 222.95.144.57:3000 Failed, <urlopen error timed out> 02-12 19:53:32
+[Notice] 111.72.25.209:9999 Failed, timed out 02-12 19:53:40
+[Notice] 111.72.25.209:9999 Failed, timed out 02-12 19:53:48
+[Notice] 49.231.140.120:80 Failed, <urlopen error timed out> 02-12 19:53:56
+[Notice] 49.231.140.120:80 Failed, <urlopen error timed out> 02-12 19:54:04
+[Notice] 103.85.63.70:53281 Failed, <urlopen error timed out> 02-12 19:54:12
+[Notice] 103.85.63.70:53281 Failed, <urlopen error timed out> 02-12 19:54:20
+[Notice] 118.114.84.216:8118 Passed on [Target Baidu.txt] 02-12 19:54:20
+[Notice] 118.114.84.216:8118 Failed, Remote end closed connection without response 02-12 19:54:20
+[Notice] 125.123.139.248:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:54:22
+[Notice] 125.123.139.248:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 19:54:25
+[Notice] 113.106.14.214:8080 Failed, Remote end closed connection without response 02-12 19:54:30
+[Notice] 113.106.14.214:8080 Failed, <urlopen error timed out> 02-12 19:54:38
+[Notice] 39.137.69.7:8080 Passed on [Target Baidu.txt] 02-12 19:54:38
+[Notice] 39.137.69.7:8080 Failed, timed out 02-12 19:54:49
+[Notice] 61.145.48.114:9999 Failed, <urlopen error timed out> 02-12 19:54:57
+[Notice] 61.145.48.114:9999 Failed, <urlopen error timed out> 02-12 19:55:05
+[Notice] 221.180.170.104:8080 Passed on [Target Baidu.txt] 02-12 19:55:06
+[Notice] 221.180.170.104:8080 Failed, timed out 02-12 19:55:27
+[Notice] 61.145.49.28:9999 Failed, <urlopen error timed out> 02-12 19:55:35
+[Notice] 61.145.49.28:9999 Failed, <urlopen error timed out> 02-12 19:55:43
+[Notice] 150.129.151.62:6666 Failed, <urlopen error timed out> 02-12 19:55:51
+[Notice] 150.129.151.62:6666 Failed, <urlopen error timed out> 02-12 19:55:59
+[Notice] 121.40.119.149:3128 Failed, timed out 02-12 19:56:30
+[Notice] 121.40.119.149:3128 Passed on [Target CD.txt] 02-12 19:56:39
+[Notice] 47.99.236.251:3128 Passed on [Target Baidu.txt] 02-12 19:56:43
+[Notice] 47.99.236.251:3128 Failed, <urlopen error timed out> 02-12 19:56:51
+[Notice] 221.227.19.129:9999 Failed, <urlopen error timed out> 02-12 19:56:59
+[Notice] 221.227.19.129:9999 Failed, <urlopen error timed out> 02-12 19:57:07
+[Notice] 114.226.244.69:9999 Passed on [Target Baidu.txt] 02-12 19:57:07
+[Notice] 114.226.244.69:9999 Failed, timed out 02-12 19:57:15
+[Notice] 175.8.110.83:8118 Failed, <urlopen error timed out> 02-12 19:57:23
+[Notice] 175.8.110.83:8118 Failed, <urlopen error timed out> 02-12 19:57:31
+[Notice] 182.253.223.138:8080 Failed, timed out 02-12 19:57:49
+[Notice] 182.253.223.138:8080 Failed, <urlopen error timed out> 02-12 19:57:57
+[Notice] 206.189.113.118:8080 Failed, timed out 02-12 19:58:11
+[Notice] 206.189.113.118:8080 Failed, <urlopen error timed out> 02-12 19:58:19
+[Notice] 1.179.206.161:59033 Failed, <urlopen error timed out> 02-12 19:58:27
+[Notice] 1.179.206.161:59033 Failed, timed out 02-12 19:58:37
+[Notice] 182.35.83.196:9999 Failed, <urlopen error timed out> 02-12 19:58:45
+[Notice] 182.35.83.196:9999 Failed, <urlopen error timed out> 02-12 19:58:53
+[Notice] 170.239.224.207:20183 Failed, <urlopen error timed out> 02-12 19:59:01
+[Notice] 170.239.224.207:20183 Failed, <urlopen error timed out> 02-12 19:59:09
+[Notice] 36.255.86.231:83 Failed, <urlopen error timed out> 02-12 19:59:17
+[Notice] 36.255.86.231:83 Failed, <urlopen error timed out> 02-12 19:59:25
+[Notice] 110.243.0.132:9999 Failed, <urlopen error timed out> 02-12 19:59:33
+[Notice] 110.243.0.132:9999 Failed, <urlopen error timed out> 02-12 19:59:41
+[Notice] 163.204.244.207:9999 Failed, <urlopen error timed out> 02-12 19:59:49
+[Notice] 163.204.244.207:9999 Failed, <urlopen error timed out> 02-12 19:59:57
+[Notice] 49.89.85.104:9999 Failed, <urlopen error timed out> 02-12 20:00:05
+[Notice] 49.89.85.104:9999 Failed, <urlopen error timed out> 02-12 20:00:13
+[Notice] 182.46.197.208:9999 Failed, <urlopen error timed out> 02-12 20:00:21
+[Notice] 182.46.197.208:9999 Failed, <urlopen error timed out> 02-12 20:00:29
+[Notice] 79.111.118.43:8080 Failed, <urlopen error timed out> 02-12 20:00:37
+[Notice] 79.111.118.43:8080 Failed, timed out 02-12 20:00:45
+[Notice] 163.204.241.38:9999 Failed, <urlopen error timed out> 02-12 20:00:53
+[Notice] 163.204.241.38:9999 Failed, <urlopen error timed out> 02-12 20:01:01
+[Notice] 182.35.83.115:9999 Failed, <urlopen error timed out> 02-12 20:01:09
+[Notice] 182.35.83.115:9999 Failed, <urlopen error timed out> 02-12 20:01:17
+[Notice] 123.163.96.55:9999 Failed, <urlopen error timed out> 02-12 20:01:25
+[Notice] 123.163.96.55:9999 Failed, <urlopen error timed out> 02-12 20:01:33
+[Notice] 117.69.201.109:9999 Failed, <urlopen error timed out> 02-12 20:01:41
+[Notice] 117.69.201.109:9999 Failed, <urlopen error timed out> 02-12 20:01:49
+[Notice] 123.160.1.40:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:01:51
+[Notice] 123.160.1.40:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:01:53
+[Notice] 182.46.102.228:9999 Failed, <urlopen error timed out> 02-12 20:02:01
+[Notice] 182.46.102.228:9999 Failed, <urlopen error timed out> 02-12 20:02:09
+[Notice] 223.241.119.158:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:02:12
+[Notice] 223.241.119.158:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:02:14
+[Notice] 117.95.12.14:9999 Failed, <urlopen error timed out> 02-12 20:02:22
+[Notice] 117.95.12.14:9999 Failed, <urlopen error timed out> 02-12 20:02:30
+[Notice] 104.236.54.196:8080 Failed, HTTP Error 503: Service Unavailable 02-12 20:02:37
+[Notice] 104.236.54.196:8080 Failed, HTTP Error 503: Service Unavailable 02-12 20:02:45
+[Notice] 92.84.56.10:51275 Failed, <urlopen error timed out> 02-12 20:02:53
+[Notice] 92.84.56.10:51275 Failed, Remote end closed connection without response 02-12 20:03:05
+[Notice] 223.241.118.203:9999 Failed, <urlopen error timed out> 02-12 20:03:13
+[Notice] 223.241.118.203:9999 Failed, <urlopen error timed out> 02-12 20:03:21
+[Notice] 112.78.133.62:8080 Failed, timed out 02-12 20:03:36
+[Notice] 112.78.133.62:8080 Failed, <urlopen error timed out> 02-12 20:03:44
+[Notice] 123.169.167.150:9999 Failed, <urlopen error timed out> 02-12 20:03:52
+[Notice] 123.169.167.150:9999 Failed, <urlopen error timed out> 02-12 20:04:00
+[Notice] 138.97.200.172:8080 Failed, <urlopen error timed out> 02-12 20:04:08
+[Notice] 138.97.200.172:8080 Failed, <urlopen error timed out> 02-12 20:04:16
+[Notice] 171.35.215.161:9999 Failed, <urlopen error timed out> 02-12 20:04:24
+[Notice] 171.35.215.161:9999 Failed, <urlopen error timed out> 02-12 20:04:32
+[Notice] 134.209.247.198:8118 Failed, [WinError 10054] 远程主机强迫关闭了一个现有的连接。 02-12 20:04:34
+[Notice] 134.209.247.198:8118 Failed, [WinError 10054] 远程主机强迫关闭了一个现有的连接。 02-12 20:04:36
+[Notice] 36.248.129.72:9999 Failed, <urlopen error timed out> 02-12 20:04:44
+[Notice] 36.248.129.72:9999 Failed, <urlopen error timed out> 02-12 20:04:52
+[Notice] 36.89.149.107:8080 Failed, timed out 02-12 20:05:00
+[Notice] 36.89.149.107:8080 Failed, timed out 02-12 20:05:16
+[Notice] 178.115.243.26:8080 Failed, <urlopen error timed out> 02-12 20:05:24
+[Notice] 178.115.243.26:8080 Failed, <urlopen error timed out> 02-12 20:05:32
+[Notice] 175.42.122.9:9999 Failed, <urlopen error timed out> 02-12 20:05:40
+[Notice] 175.42.122.9:9999 Failed, <urlopen error timed out> 02-12 20:05:48
+[Notice] 176.115.250.3:3128 Failed, <urlopen error timed out> 02-12 20:05:56
+[Notice] 176.115.250.3:3128 Failed, <urlopen error timed out> 02-12 20:06:04
+[Notice] 14.207.2.226:8080 Failed, <urlopen error timed out> 02-12 20:06:12
+[Notice] 14.207.2.226:8080 Failed, timed out 02-12 20:06:21
+[Notice] 103.211.8.205:44581 Failed, <urlopen error timed out> 02-12 20:06:29
+[Notice] 103.211.8.205:44581 Failed, <urlopen error timed out> 02-12 20:06:37
+[Notice] 117.69.13.119:9999 Failed, <urlopen error timed out> 02-12 20:06:45
+[Notice] 117.69.13.119:9999 Failed, <urlopen error timed out> 02-12 20:06:53
+[Notice] 175.42.68.28:9999 Failed, <urlopen error timed out> 02-12 20:07:01
+[Notice] 175.42.68.28:9999 Failed, <urlopen error timed out> 02-12 20:07:09
+[Notice] 187.162.11.94:3128 Failed, timed out 02-12 20:07:22
+[Notice] 187.162.11.94:3128 Failed, timed out 02-12 20:07:40
+[Notice] 118.114.96.159:8118 Failed, <urlopen error timed out> 02-12 20:07:48
+[Notice] 118.114.96.159:8118 Failed, Remote end closed connection without response 02-12 20:07:50
+[Notice] 5.196.95.53:3128 Failed, <urlopen error timed out> 02-12 20:07:58
+[Notice] 5.196.95.53:3128 Failed, <urlopen error timed out> 02-12 20:08:06
+[Notice] 5.200.81.183:8080 Failed, timed out 02-12 20:08:17
+[Notice] 5.200.81.183:8080 Failed, timed out 02-12 20:08:29
+[Notice] 1.197.16.182:9999 Failed, <urlopen error timed out> 02-12 20:08:37
+[Notice] 1.197.16.182:9999 Failed, <urlopen error timed out> 02-12 20:08:45
+[Notice] 58.22.177.171:9999 Failed, timed out 02-12 20:08:53
+[Notice] 58.22.177.171:9999 Failed, timed out 02-12 20:09:01
+[Notice] 114.99.0.244:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:09:03
+[Notice] 114.99.0.244:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:09:05
+[Notice] 182.35.84.104:9999 Failed, <urlopen error timed out> 02-12 20:09:13
+[Notice] 182.35.84.104:9999 Failed, <urlopen error timed out> 02-12 20:09:21
+[Notice] 36.92.1.221:8080 Failed, timed out 02-12 20:09:49
+[Notice] 113.194.30.177:9999 Failed, <urlopen error timed out> 02-12 20:10:16
+[Notice] 113.194.30.177:9999 Failed, <urlopen error timed out> 02-12 20:10:24
+[Notice] 112.85.126.244:9999 Passed on [Target Baidu.txt] 02-12 20:10:24
+[Notice] 112.85.126.244:9999 Failed, timed out 02-12 20:10:32
+[Notice] 131.255.135.8:8080 Failed, <urlopen error timed out> 02-12 20:10:40
+[Notice] 131.255.135.8:8080 Failed, timed out 02-12 20:10:48
+[Notice] 111.72.25.214:9999 Failed, <urlopen error timed out> 02-12 20:10:56
+[Notice] 111.72.25.214:9999 Failed, <urlopen error timed out> 02-12 20:11:04
+[Notice] 122.138.143.187:9999 Failed, <urlopen error timed out> 02-12 20:11:12
+[Notice] 122.138.143.187:9999 Failed, <urlopen error timed out> 02-12 20:11:20
+[Notice] 123.163.122.228:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:11:28
+[Notice] 123.163.122.228:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:11:30
+[Notice] 59.60.208.152:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:11:32
+[Notice] 59.60.208.152:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:11:35
+[Notice] Crawl Finished, Result Below: 02-12 20:11:35
+[Notice] [Target 0] (46/550) Passed http://www.baidu.com
+ 02-12 20:11:35
+[Notice] [Target 1] (42/550) Passed http://www.okcd00.tech
+ 02-12 20:11:35
+[Notice] 218.200.66.196:8080 Failed, <urlopen error timed out> 02-12 20:11:43
+[Notice] 110.73.7.33:8123 Failed, <urlopen error timed out> 02-12 20:11:51
+[Notice] 120.198.236.10:80 Failed, <urlopen error timed out> 02-12 20:11:59
+[Notice] 220.248.224.242:8089 Failed, <urlopen error timed out> 02-12 20:12:07
+[Notice] 171.38.38.242:8123 Failed, <urlopen error timed out> 02-12 20:12:15
+[Notice] 110.73.10.176:8123 Failed, <urlopen error timed out> 02-12 20:12:23
+[Notice] 59.78.160.247:8080 Failed, <urlopen error timed out> 02-12 20:12:31
+[Notice] 117.136.234.8:80 Failed, <urlopen error timed out> 02-12 20:12:39
+[Notice] 122.225.107.70:8080 Failed, <urlopen error timed out> 02-12 20:12:47
+[Notice] 222.185.44.74:8123 Failed, <urlopen error timed out> 02-12 20:12:55
+[Notice] 27.115.75.114:8080 Failed, <urlopen error timed out> 02-12 20:13:03
+[Notice] 218.97.194.218:80 Failed, <urlopen error timed out> 02-12 20:13:11
+[Notice] 120.52.73.37:8080 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:13:13
+[Notice] 222.45.85.53:8118 Failed, <urlopen error timed out> 02-12 20:13:21
+[Notice] 110.73.55.175:8123 Failed, <urlopen error timed out> 02-12 20:13:29
+[Notice] 182.18.19.218:3128 Failed, <urlopen error timed out> 02-12 20:13:37
+[Notice] 139.196.108.68:80 Failed, <urlopen error timed out> 02-12 20:13:45
+[Notice] 59.78.160.247:8080 Failed, <urlopen error timed out> 02-12 20:13:53
+[Notice] 117.136.234.8:80 Failed, <urlopen error timed out> 02-12 20:14:01
+[Notice] 122.225.107.70:8080 Failed, <urlopen error timed out> 02-12 20:14:09
+[Notice] 222.185.44.74:8123 Failed, <urlopen error timed out> 02-12 20:14:17
+[Notice] 27.115.75.114:8080 Failed, <urlopen error timed out> 02-12 20:14:25
+[Notice] 218.97.194.218:80 Failed, <urlopen error timed out> 02-12 20:14:33
+[Notice] 120.52.73.37:8080 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:14:35
+[Notice] 222.45.85.53:8118 Failed, <urlopen error timed out> 02-12 20:14:43
+[Notice] 139.196.164.155:8088 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:14:45
+[Notice] 124.251.62.246:80 Failed, <urlopen error timed out> 02-12 20:14:53
+[Notice] 222.59.161.12:8118 Failed, <urlopen error timed out> 02-12 20:15:01
+[Notice] 139.196.108.68:80 Failed, <urlopen error timed out> 02-12 20:15:09
+[Notice] 117.136.234.10:80 Failed, <urlopen error timed out> 02-12 20:15:17
+[Notice] 118.169.126.235:80 Failed, <urlopen error timed out> 02-12 20:15:25
+[Notice] 139.196.110.205:80 Failed, <urlopen error timed out> 02-12 20:15:33
+[Notice] 119.253.252.27:3128 Failed, <urlopen error timed out> 02-12 20:15:41
+[Notice] 117.136.234.7:80 Failed, <urlopen error timed out> 02-12 20:15:49
+[Notice] 124.251.62.246:80 Failed, <urlopen error timed out> 02-12 20:15:57
+[Notice] 222.59.161.12:8118 Failed, <urlopen error timed out> 02-12 20:16:05
+[Notice] 117.136.234.10:80 Failed, <urlopen error timed out> 02-12 20:16:13
+[Notice] 118.169.126.235:80 Failed, <urlopen error timed out> 02-12 20:16:21
+[Notice] 101.200.241.59:8080 Failed, <urlopen error timed out> 02-12 20:16:29
+[Notice] 218.191.30.12:80 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:16:32
+[Notice] 59.78.160.246:8080 Failed, <urlopen error timed out> 02-12 20:16:40
+[Notice] 119.236.239.242:80 Failed, <urlopen error timed out> 02-12 20:16:48
+[Notice] 120.52.73.25:80 Failed, Remote end closed connection without response 02-12 20:16:48
+[Notice] 124.88.67.22:80 Failed, <urlopen error timed out> 02-12 20:16:56
+[Notice] 118.244.151.157:3128 Failed, <urlopen error timed out> 02-12 20:17:04
+[Notice] 124.206.133.227:80 Failed, <urlopen error timed out> 02-12 20:17:12
+[Notice] 218.191.30.12:80 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:17:16
+[Notice] 59.78.160.246:8080 Failed, <urlopen error timed out> 02-12 20:17:24
+[Notice] 219.232.82.84:8080 Failed, <urlopen error timed out> 02-12 20:17:32
+[Notice] 119.236.239.242:80 Failed, <urlopen error timed out> 02-12 20:17:40
+[Notice] 120.52.73.25:80 Failed, Remote end closed connection without response 02-12 20:17:40
+[Notice] 182.92.104.79:3128 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:17:42
+[Notice] 124.88.67.22:80 Failed, <urlopen error timed out> 02-12 20:17:50
+[Notice] 118.244.151.157:3128 Failed, <urlopen error timed out> 02-12 20:17:58
+[Notice] 222.85.127.130:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:18:00
+[Notice] 221.205.220.75:9797 Failed, <urlopen error timed out> 02-12 20:18:08
+[Notice] 119.55.89.22:9999 Failed, <urlopen error timed out> 02-12 20:18:16
+[Notice] 60.250.81.118:80 Failed, <urlopen error timed out> 02-12 20:18:24
+[Notice] 123.125.8.253:1209 Failed, <urlopen error timed out> 02-12 20:18:32
+[Notice] 59.41.154.148:3128 Failed, <urlopen error timed out> 02-12 20:18:40
+[Notice] 119.29.120.71:3128 Failed, <urlopen error timed out> 02-12 20:18:48
+[Notice] 183.4.146.150:9000 Failed, <urlopen error timed out> 02-12 20:18:56
+[Notice] 118.186.209.109:1080 Failed, <urlopen error timed out> 02-12 20:19:04
+[Notice] 219.232.82.84:8080 Failed, <urlopen error timed out> 02-12 20:19:12
+[Notice] 1.175.80.10:3128 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:19:17
+[Notice] 182.92.104.79:3128 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:19:19
+[Notice] 113.204.212.50:3128 Failed, <urlopen error timed out> 02-12 20:19:27
+[Notice] 58.67.159.50:80 Failed, <urlopen error timed out> 02-12 20:19:35
+[Notice] 14.145.246.221:808 Failed, <urlopen error timed out> 02-12 20:19:43
+[Notice] 59.41.154.148:3128 Failed, <urlopen error timed out> 02-12 20:19:51
+[Notice] 115.46.158.7:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:19:53
+[Notice] 113.204.212.50:3128 Failed, <urlopen error timed out> 02-12 20:20:01
+[Notice] 111.11.255.11:80 Failed, <urlopen error timed out> 02-12 20:20:09
+[Notice] 113.200.58.115:9999 Failed, <urlopen error timed out> 02-12 20:20:17
+[Notice] 110.17.172.150:3128 Failed, <urlopen error timed out> 02-12 20:20:25
+[Notice] 223.255.14.246:9000 Failed, <urlopen error timed out> 02-12 20:20:33
+[Notice] 118.26.62.234:3128 Failed, <urlopen error timed out> 02-12 20:20:41
+[Notice] 113.108.141.98:9797 Failed, <urlopen error timed out> 02-12 20:20:49
+[Notice] 121.32.52.116:9999 Failed, <urlopen error timed out> 02-12 20:20:57
+[Notice] 118.253.86.31:9999 Failed, <urlopen error timed out> 02-12 20:21:05
+[Notice] 122.227.199.178:9797 Failed, <urlopen error timed out> 02-12 20:21:13
+[Notice] 124.88.67.33:80 Failed, <urlopen error timed out> 02-12 20:21:21
+[Notice] 111.11.255.11:80 Failed, <urlopen error timed out> 02-12 20:21:29
+[Notice] 101.200.234.114:8080 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:21:31
+[Notice] 112.95.244.57:80 Failed, [WinError 10054] 远程主机强迫关闭了一个现有的连接。 02-12 20:21:31
+[Notice] 110.17.172.150:3128 Failed, <urlopen error timed out> 02-12 20:21:39
+[Notice] 183.88.7.242:8080 Failed, <urlopen error timed out> 02-12 20:21:47
+[Notice] 113.30.102.92:3128 Failed, <urlopen error timed out> 02-12 20:21:55
+[Notice] 121.32.52.116:9999 Failed, <urlopen error timed out> 02-12 20:22:03
+[Notice] 118.253.86.31:9999 Failed, <urlopen error timed out> 02-12 20:22:11
+[Notice] 175.197.116.156:3128 Failed, <urlopen error timed out> 02-12 20:22:19
+[Notice] 121.201.18.74:3128 Failed, <urlopen error timed out> 02-12 20:22:27
+[Notice] 107.181.174.109:8888 Failed, <urlopen error timed out> 02-12 20:22:35
+[Notice] 61.38.252.15:3128 Failed, <urlopen error timed out> 02-12 20:22:43
+[Notice] 122.227.199.178:9797 Failed, <urlopen error timed out> 02-12 20:22:51
+[Notice] 124.88.67.33:80 Failed, <urlopen error timed out> 02-12 20:22:59
+[Notice] 115.25.138.245:3128 Failed, <urlopen error timed out> 02-12 20:23:07
+[Notice] 61.7.149.69:8080 Failed, <urlopen error timed out> 02-12 20:23:15
+[Notice] 118.26.143.202:3128 Failed, <urlopen error timed out> 02-12 20:23:23
+[Notice] 40.118.131.11:8080 Failed, <urlopen error timed out> 02-12 20:23:31
+[Notice] 183.111.169.205:3128 Failed, <urlopen error timed out> 02-12 20:23:39
+[Notice] 61.38.252.14:3128 Failed, <urlopen error timed out> 02-12 20:23:47
+[Notice] 183.88.7.242:8080 Failed, <urlopen error timed out> 02-12 20:23:55
+[Notice] 58.8.218.129:8080 Failed, <urlopen error timed out> 02-12 20:24:03
+[Notice] 113.30.102.92:3128 Failed, <urlopen error timed out> 02-12 20:24:11
+[Notice] 110.164.202.69:8080 Failed, <urlopen error timed out> 02-12 20:24:19
+[Notice] 113.30.102.95:3128 Failed, <urlopen error timed out> 02-12 20:24:27
+[Notice] 110.168.26.157:8080 Failed, <urlopen error timed out> 02-12 20:24:35
+[Notice] 183.111.169.204:3128 Failed, <urlopen error timed out> 02-12 20:24:43
+[Notice] 121.88.249.31:3128 Failed, <urlopen error timed out> 02-12 20:24:51
+[Notice] 183.89.144.156:3128 Failed, <urlopen error timed out> 02-12 20:24:59
+[Notice] 183.111.169.201:3128 Failed, <urlopen error timed out> 02-12 20:25:07
+[Notice] 61.7.149.69:8080 Failed, <urlopen error timed out> 02-12 20:25:15
+[Notice] 40.118.131.11:8080 Failed, <urlopen error timed out> 02-12 20:25:23
+[Notice] 58.8.218.129:8080 Failed, <urlopen error timed out> 02-12 20:25:31
+[Notice] 183.89.105.102:8080 Failed, <urlopen error timed out> 02-12 20:25:39
+[Notice] 110.164.202.69:8080 Failed, <urlopen error timed out> 02-12 20:25:47
+[Notice] 202.77.100.221:80 Failed, HTTP Error 500: Internal Server Error 02-12 20:25:51
+[Notice] 110.168.26.157:8080 Failed, <urlopen error timed out> 02-12 20:25:59
+[Notice] 58.120.96.231:3128 Failed, <urlopen error timed out> 02-12 20:26:07
+[Notice] 183.89.144.156:3128 Failed, <urlopen error timed out> 02-12 20:26:15
+[Notice] 213.119.123.95:80 Failed, <urlopen error timed out> 02-12 20:26:23
+[Notice] 183.111.169.206:3128 Failed, <urlopen error timed out> 02-12 20:26:31
+[Notice] 14.139.60.8:9797 Failed, <urlopen error timed out> 02-12 20:26:39
+[Notice] 202.62.85.186:8080 Failed, <urlopen error timed out> 02-12 20:26:47
+[Notice] 202.77.100.221:80 Failed, HTTP Error 500: Internal Server Error 02-12 20:26:48
+[Notice] 31.184.242.44:8888 Failed, <urlopen error timed out> 02-12 20:26:56
+[Notice] 113.30.102.96:3128 Failed, <urlopen error timed out> 02-12 20:27:04
+[Notice] 180.183.108.112:8080 Failed, <urlopen error timed out> 02-12 20:27:12
+[Notice] 59.11.82.105:80 Failed, <urlopen error timed out> 02-12 20:27:20
+[Notice] 58.120.96.233:3128 Failed, <urlopen error timed out> 02-12 20:27:28
+[Notice] 69.175.71.162:80 Passed on [Target Baidu.txt] 02-12 20:27:28
+[Notice] 61.38.252.16:3128 Failed, <urlopen error timed out> 02-12 20:27:36
+[Notice] 58.120.96.234:3128 Failed, <urlopen error timed out> 02-12 20:27:44
+[Notice] 104.154.90.76:8080 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:27:49
+[Notice] 223.27.158.2:8080 Failed, <urlopen error timed out> 02-12 20:27:57
+[Notice] 202.62.85.186:8080 Failed, <urlopen error timed out> 02-12 20:28:05
+[Notice] 113.30.102.96:3128 Failed, <urlopen error timed out> 02-12 20:28:13
+[Notice] 203.189.89.162:80 Failed, HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Temporary Redirect 02-12 20:28:18
+[Notice] 175.197.116.153:3128 Failed, <urlopen error timed out> 02-12 20:28:26
+[Notice] 58.120.96.233:3128 Failed, <urlopen error timed out> 02-12 20:28:34
+[Notice] 210.101.131.231:8080 Failed, <urlopen error timed out> 02-12 20:28:42
+[Notice] 190.98.162.22:8080 Failed, <urlopen error timed out> 02-12 20:28:50
+[Notice] 203.156.126.38:8080 Failed, <urlopen error timed out> 02-12 20:28:58
+[Notice] 69.175.71.162:80 Passed on [Target Baidu.txt] 02-12 20:28:59
+[Notice] 198.169.246.30:80 Failed, <urlopen error timed out> 02-12 20:29:07
+[Notice] 61.38.252.16:3128 Failed, <urlopen error timed out> 02-12 20:29:15
+[Notice] 195.154.231.43:3128 Failed, <urlopen error timed out> 02-12 20:29:23
+[Notice] 58.120.96.234:3128 Failed, <urlopen error timed out> 02-12 20:29:31
+[Notice] 186.225.99.140:80 Failed, <urlopen error timed out> 02-12 20:29:39
+[Notice] 104.156.250.202:3128 Failed, <urlopen error timed out> 02-12 20:29:47
+[Notice] 104.154.90.76:8080 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:29:50
+[Notice] 104.161.19.11:3128 Failed, <urlopen error timed out> 02-12 20:29:58
+[Notice] 190.96.7.189:80 Failed, HTTP Error 503: Service Unavailable 02-12 20:30:03
+[Notice] 203.189.89.162:80 Failed, HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Temporary Redirect 02-12 20:30:11
+[Notice] 175.197.116.153:3128 Failed, <urlopen error timed out> 02-12 20:30:19
+[Notice] 151.80.204.23:3128 Failed, <urlopen error timed out> 02-12 20:30:27
+[Notice] 177.17.250.44:8080 Failed, <urlopen error timed out> 02-12 20:30:35
+[Notice] 210.101.131.231:8080 Failed, <urlopen error timed out> 02-12 20:30:43
+[Notice] 190.98.162.22:8080 Failed, <urlopen error timed out> 02-12 20:30:51
+[Notice] 187.113.160.179:8080 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:30:55
+[Notice] 198.169.246.30:80 Failed, <urlopen error timed out> 02-12 20:31:03
+[Notice] 195.154.231.43:3128 Failed, <urlopen error timed out> 02-12 20:31:11
+[Notice] 186.225.99.140:80 Failed, <urlopen error timed out> 02-12 20:31:19
+[Notice] 110.232.76.150:18080 Failed, <urlopen error timed out> 02-12 20:31:27
+[Notice] 104.156.250.202:3128 Failed, <urlopen error timed out> 02-12 20:31:35
+[Notice] 5.196.190.136:8080 Failed, <urlopen error timed out> 02-12 20:31:43
+[Notice] 43.240.81.90:8080 Failed, <urlopen error timed out> 02-12 20:31:51
+[Notice] 104.161.19.11:3128 Failed, <urlopen error timed out> 02-12 20:31:59
+[Notice] 190.96.7.189:80 Failed, HTTP Error 503: Service Unavailable 02-12 20:32:00
+[Notice] 200.217.242.14:3128 Failed, <urlopen error timed out> 02-12 20:32:08
+[Notice] 151.80.204.23:3128 Failed, <urlopen error timed out> 02-12 20:32:16
+[Notice] 80.28.231.183:8080 Failed, <urlopen error timed out> 02-12 20:32:24
+[Notice] 36.81.54.255:8080 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:32:29
+[Notice] 177.17.250.44:8080 Failed, <urlopen error timed out> 02-12 20:32:37
+[Notice] 187.113.160.179:8080 Failed, <urlopen error timed out> 02-12 20:32:45
+[Notice] 113.180.79.125:8080 Failed, <urlopen error timed out> 02-12 20:32:53
+[Notice] 138.59.122.81:3128 Failed, <urlopen error timed out> 02-12 20:33:01
+[Notice] 110.74.206.229:8080 Failed, <urlopen error timed out> 02-12 20:33:09
+[Notice] 94.156.237.66:8001 Failed, <urlopen error timed out> 02-12 20:33:17
+[Notice] 43.240.81.90:8080 Failed, <urlopen error timed out> 02-12 20:33:25
+[Notice] 222.252.25.170:3128 Failed, <urlopen error timed out> 02-12 20:33:33
+[Notice] 105.198.226.165:8080 Failed, <urlopen error timed out> 02-12 20:33:41
+[Notice] 182.253.176.96:8080 Failed, <urlopen error timed out> 02-12 20:33:49
+[Notice] 200.217.242.14:3128 Failed, <urlopen error timed out> 02-12 20:33:57
+[Notice] 112.143.7.181:8080 Failed, <urlopen error timed out> 02-12 20:34:05
+[Notice] 182.30.227.5:8080 Failed, <urlopen error timed out> 02-12 20:34:13
+[Notice] 177.85.7.126:8080 Failed, <urlopen error timed out> 02-12 20:34:21
+[Notice] 52.27.49.120:3128 Failed, <urlopen error timed out> 02-12 20:34:29
+[Notice] 200.199.34.58:8080 Failed, <urlopen error timed out> 02-12 20:34:37
+[Notice] 125.24.124.52:8080 Failed, <urlopen error timed out> 02-12 20:34:45
+[Notice] 41.154.92.142:8080 Failed, <urlopen error timed out> 02-12 20:34:53
+[Notice] 222.252.25.170:3128 Failed, <urlopen error timed out> 02-12 20:35:01
+[Notice] 125.26.179.220:8080 Failed, <urlopen error timed out> 02-12 20:35:09
+[Notice] 69.175.71.164:80 Passed on [Target Baidu.txt] 02-12 20:35:09
+[Notice] 95.158.139.48:8080 Failed, <urlopen error timed out> 02-12 20:35:17
+[Notice] 112.143.7.181:8080 Failed, <urlopen error timed out> 02-12 20:35:25
+[Notice] 121.69.8.234:8080 Failed, <urlopen error timed out> 02-12 20:35:33
+[Notice] 117.177.243.14:8082 Failed, <urlopen error timed out> 02-12 20:35:41
+[Notice] 203.156.211.116:8080 Failed, <urlopen error timed out> 02-12 20:35:49
+[Notice] 122.72.18.160:80 Failed, <urlopen error timed out> 02-12 20:35:57
+[Notice] 117.158.1.210:9797 Failed, <urlopen error timed out> 02-12 20:36:05
+[Notice] 101.226.12.223:80 Failed, <urlopen error timed out> 02-12 20:36:13
+[Notice] 117.177.250.151:80 Failed, <urlopen error timed out> 02-12 20:36:21
+[Notice] 117.177.243.39:85 Failed, <urlopen error timed out> 02-12 20:36:29
+[Notice] 202.100.167.182:80 Failed, <urlopen error timed out> 02-12 20:36:37
+[Notice] 180.166.112.47:8888 Failed, <urlopen error timed out> 02-12 20:36:45
+[Notice] 117.185.124.77:8088 Failed, <urlopen error timed out> 02-12 20:36:53
+[Notice] 113.215.0.130:80 Failed, <urlopen error timed out> 02-12 20:37:01
+[Notice] 61.172.249.96:80 Failed, <urlopen error timed out> 02-12 20:37:09
+[Notice] 58.47.191.140:3128 Failed, <urlopen error timed out> 02-12 20:37:17
+[Notice] 117.136.234.10:83 Failed, <urlopen error timed out> 02-12 20:37:25
+[Notice] 218.92.227.165:14856 Failed, <urlopen error timed out> 02-12 20:37:33
+[Notice] 61.172.249.96:80 Failed, <urlopen error timed out> 02-12 20:37:41
+[Notice] 222.138.66.77:3128 Failed, <urlopen error timed out> 02-12 20:37:49
+[Notice] 198.11.173.5:3128 Failed, <urlopen error timed out> 02-12 20:37:57
+[Notice] 111.11.228.77:80 Failed, <urlopen error timed out> 02-12 20:38:05
+[Notice] 1.179.185.249:8080 Failed, <urlopen error timed out> 02-12 20:38:13
+[Notice] 202.100.167.173:80 Failed, <urlopen error timed out> 02-12 20:38:21
+[Notice] 117.136.234.6:82 Failed, <urlopen error timed out> 02-12 20:38:29
+[Notice] 117.136.234.10:83 Failed, <urlopen error timed out> 02-12 20:38:37
+[Notice] 222.138.66.77:3128 Failed, <urlopen error timed out> 02-12 20:38:45
+[Notice] 183.203.8.180:8080 Failed, <urlopen error timed out> 02-12 20:38:53
+[Notice] 198.11.173.5:3128 Failed, <urlopen error timed out> 02-12 20:39:01
+[Notice] 115.231.158.51:80 Failed, <urlopen error timed out> 02-12 20:39:09
+[Notice] 1.179.185.249:8080 Failed, <urlopen error timed out> 02-12 20:39:17
+[Notice] 202.100.167.173:80 Failed, <urlopen error timed out> 02-12 20:39:25
+[Notice] 60.194.100.51:80 Failed, <urlopen error timed out> 02-12 20:39:33
+[Notice] 117.136.234.6:82 Failed, <urlopen error timed out> 02-12 20:39:41
+[Notice] 128.199.99.190:8888 Failed, <urlopen error timed out> 02-12 20:39:49
+[Notice] 183.203.8.180:8080 Failed, <urlopen error timed out> 02-12 20:39:57
+[Notice] 115.231.158.51:80 Failed, <urlopen error timed out> 02-12 20:40:05
+[Notice] 177.72.96.89:8000 Failed, <urlopen error timed out> 02-12 20:40:13
+[Notice] 114.41.143.186:3128 Failed, <urlopen error timed out> 02-12 20:40:21
+[Notice] 128.199.99.190:8888 Failed, <urlopen error timed out> 02-12 20:40:29
+[Notice] 197.254.106.98:8080 Failed, <urlopen error timed out> 02-12 20:40:37
+[Notice] 176.110.163.230:3128 Failed, <urlopen error timed out> 02-12 20:40:45
+[Notice] 192.163.224.126:8080 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:40:53
+[Notice] 173.236.22.3:80 Failed, <urlopen error timed out> 02-12 20:41:01
+[Notice] 58.96.182.226:3128 Failed, <urlopen error timed out> 02-12 20:41:09
+[Notice] 221.10.102.202:82 Failed, <urlopen error timed out> 02-12 20:41:17
+[Notice] 120.52.73.37:8080 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:41:19
+[Notice] 221.176.14.72:80 Failed, <urlopen error timed out> 02-12 20:41:27
+[Notice] 120.52.73.39:8080 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:41:29
+[Notice] 110.73.3.43:8123 Failed, <urlopen error timed out> 02-12 20:41:37
+[Notice] 182.18.19.218:3128 Failed, <urlopen error timed out> 02-12 20:41:45
+[Notice] 121.42.220.79:8088 Failed, <urlopen error timed out> 02-12 20:41:53
+[Notice] 60.167.23.47:8118 Failed, <urlopen error timed out> 02-12 20:42:01
+[Notice] 59.78.160.248:8080 Failed, <urlopen error timed out> 02-12 20:42:09
+[Notice] 114.27.233.155:8123 Failed, <urlopen error timed out> 02-12 20:42:17
+[Notice] 119.253.252.29:3128 Failed, <urlopen error timed out> 02-12 20:42:25
+[Notice] 59.78.160.244:8080 Failed, <urlopen error timed out> 02-12 20:42:33
+[Notice] 59.78.160.247:8080 Failed, <urlopen error timed out> 02-12 20:42:41
+[Notice] 60.13.8.225:8888 Failed, <urlopen error timed out> 02-12 20:42:49
+[Notice] 124.206.133.227:80 Failed, <urlopen error timed out> 02-12 20:42:57
+[Notice] 124.88.67.22:80 Failed, <urlopen error timed out> 02-12 20:43:05
+[Notice] 223.255.14.245:9000 Failed, <urlopen error timed out> 02-12 20:43:13
+[Notice] 115.46.158.7:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:43:16
+[Notice] 42.121.113.250:3128 Failed, <urlopen error timed out> 02-12 20:43:24
+[Notice] 1.196.161.186:9999 Failed, <urlopen error timed out> 02-12 20:43:32
+[Notice] 175.43.123.1:55336 Failed, <urlopen error timed out> 02-12 20:43:40
+[Notice] 210.82.92.77:3128 Failed, <urlopen error timed out> 02-12 20:43:48
+[Notice] 36.233.119.165:8080 Failed, <urlopen error timed out> 02-12 20:43:56
+[Notice] 220.142.198.215:3128 Failed, <urlopen error timed out> 02-12 20:44:04
+[Notice] 114.34.148.204:3128 Failed, <urlopen error timed out> 02-12 20:44:12
+[Notice] 219.155.46.234:9999 Failed, <urlopen error timed out> 02-12 20:44:20
+[Notice] 123.125.8.253:1209 Failed, <urlopen error timed out> 02-12 20:44:28
+[Notice] 49.76.193.203:9999 Failed, <urlopen error timed out> 02-12 20:44:36
+[Notice] 220.175.145.190:9999 Failed, <urlopen error timed out> 02-12 20:44:44
+[Notice] 36.27.28.240:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:44:46
+[Notice] 180.122.180.192:9999 Failed, <urlopen error timed out> 02-12 20:44:54
+[Notice] 123.149.137.244:9999 Failed, <urlopen error timed out> 02-12 20:45:02
+[Notice] 111.79.45.157:9999 Failed, <urlopen error timed out> 02-12 20:45:10
+[Notice] 222.240.184.126:8086 Failed, <urlopen error timed out> 02-12 20:45:18
+[Notice] 119.23.79.199:3128 Failed, timed out 02-12 20:45:26
+[Notice] 122.228.19.9:3389 Passed on [Target Baidu.txt] 02-12 20:45:26
+[Notice] 61.153.251.150:22222 Failed, <urlopen error timed out> 02-12 20:45:34
+[Notice] 116.196.85.150:3128 Passed on [Target Baidu.txt] 02-12 20:45:35
+[Notice] 218.2.226.42:80 Failed, <urlopen error timed out> 02-12 20:45:43
+[Notice] 218.60.8.99:3129 Passed on [Target Baidu.txt] 02-12 20:45:44
+[Notice] 222.90.110.194:8080 Passed on [Target Baidu.txt] 02-12 20:45:49
+[Notice] 218.64.69.79:8080 Failed, <urlopen error timed out> 02-12 20:45:57
+[Notice] 103.10.86.203:8080 Failed, <urlopen error timed out> 02-12 20:46:05
+[Notice] 113.140.1.82:53281 Passed on [Target Baidu.txt] 02-12 20:46:07
+[Notice] 116.196.85.166:3128 Passed on [Target Baidu.txt] 02-12 20:46:10
+[Notice] 210.26.49.88:3128 Passed on [Target Baidu.txt] 02-12 20:46:17
+[Notice] 60.191.11.246:3128 Passed on [Target Baidu.txt] 02-12 20:46:18
+[Notice] 118.89.234.236:8787 Passed on [Target Baidu.txt] 02-12 20:46:18
+[Notice] 49.76.188.114:9999 Failed, <urlopen error timed out> 02-12 20:46:26
+[Notice] 114.99.9.116:9999 Failed, <urlopen error timed out> 02-12 20:46:34
+[Notice] 60.167.21.91:9999 Failed, <urlopen error timed out> 02-12 20:46:42
+[Notice] 220.175.144.62:9999 Passed on [Target Baidu.txt] 02-12 20:46:42
+[Notice] 115.216.79.253:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:46:44
+[Notice] 117.26.40.182:9999 Failed, <urlopen error timed out> 02-12 20:46:52
+[Notice] 218.60.8.83:3129 Failed, <urlopen error timed out> 02-12 20:47:00
+[Notice] 58.212.41.135:9999 Failed, <urlopen error timed out> 02-12 20:47:08
+[Notice] 117.64.236.131:9999 Failed, <urlopen error timed out> 02-12 20:47:16
+[Notice] 114.231.41.83:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:47:18
+[Notice] 220.175.145.190:9999 Failed, <urlopen error timed out> 02-12 20:47:27
+[Notice] 115.216.43.75:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:47:29
+[Notice] 60.167.21.83:9999 Failed, <urlopen error timed out> 02-12 20:47:37
+[Notice] 122.231.29.138:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:47:39
+[Notice] 122.4.45.8:9999 Failed, HTTP Error 403: Forbidden 02-12 20:47:41
+[Notice] 114.226.244.188:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:47:43
+[Notice] 111.79.45.19:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:47:45
+[Notice] 112.85.127.33:9999 Failed, <urlopen error timed out> 02-12 20:47:53
+[Notice] 69.175.71.162:80 Passed on [Target Baidu.txt] 02-12 20:47:53
+[Notice] 49.76.193.203:9999 Failed, <urlopen error timed out> 02-12 20:48:01
+[Notice] 49.76.193.203:9999 Failed, <urlopen error timed out> 02-12 20:48:09
+[Notice] 220.175.145.190:9999 Failed, <urlopen error timed out> 02-12 20:48:17
+[Notice] 49.76.188.114:9999 Failed, <urlopen error timed out> 02-12 20:48:25
+[Notice] 112.87.78.127:9999 Failed, timed out 02-12 20:48:40
+[Notice] 58.212.43.96:9999 Failed, <urlopen error timed out> 02-12 20:48:48
+[Notice] 123.149.136.164:9999 Failed, <urlopen error timed out> 02-12 20:48:56
+[Notice] 122.231.29.138:9999 Failed, <urlopen error timed out> 02-12 20:49:04
+[Notice] 115.216.40.39:9999 Passed on [Target Baidu.txt] 02-12 20:49:09
+[Notice] 218.60.8.83:3129 Passed on [Target Baidu.txt] 02-12 20:49:09
+[Notice] 122.228.19.7:3389 Failed, <urlopen error timed out> 02-12 20:49:17
+[Notice] 122.193.231.37:9999 Failed, <urlopen error timed out> 02-12 20:49:25
+[Notice] 36.27.28.240:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:49:27
+[Notice] 115.216.43.75:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:49:29
+[Notice] 115.216.57.201:9999 Failed, <urlopen error timed out> 02-12 20:49:37
+[Notice] 112.85.127.71:9999 Failed, <urlopen error timed out> 02-12 20:49:45
+[Notice] 115.216.40.39:9999 Passed on [Target Baidu.txt] 02-12 20:49:46
+[Notice] 220.176.46.77:9999 Failed, <urlopen error timed out> 02-12 20:49:54
+[Notice] 114.99.5.162:9999 Failed, <urlopen error timed out> 02-12 20:50:02
+[Notice] 220.175.145.250:9999 Passed on [Target Baidu.txt] 02-12 20:50:03
+[Notice] 122.228.19.9:3389 Passed on [Target Baidu.txt] 02-12 20:50:03
+[Notice] 222.223.182.66:8000 Failed, <urlopen error timed out> 02-12 20:50:11
+[Notice] 61.153.251.150:22222 Failed, <urlopen error timed out> 02-12 20:50:19
+[Notice] 124.152.32.140:53281 Failed, timed out 02-12 20:50:43
+[Notice] 218.2.226.42:80 Failed, timed out 02-12 20:50:52
+[Notice] 218.60.8.99:3129 Passed on [Target Baidu.txt] 02-12 20:50:53
+[Notice] 123.139.56.238:9999 Passed on [Target Baidu.txt] 02-12 20:50:57
+[Notice] 61.145.182.27:53281 Failed, <urlopen error timed out> 02-12 20:51:05
+[Notice] 222.249.238.138:8080 Failed, <urlopen error timed out> 02-12 20:51:13
+[Notice] 60.191.45.91:8080 Failed, <urlopen error timed out> 02-12 20:51:21
+[Notice] 58.243.50.184:53281 Failed, <urlopen error timed out> 02-12 20:51:29
+[Notice] 60.191.11.246:3128 Failed, HTTP Error 500: Internal Server Error 02-12 20:51:32
+[Notice] 49.76.188.114:9999 Failed, <urlopen error timed out> 02-12 20:51:40
+[Notice] 123.149.136.161:9999 Failed, <urlopen error timed out> 02-12 20:51:48
+[Notice] 60.167.132.90:9999 Failed, <urlopen error timed out> 02-12 20:51:56
+[Notice] 114.226.245.208:9999 Failed, <urlopen error timed out> 02-12 20:52:04
+[Notice] 114.99.3.195:9999 Failed, <urlopen error timed out> 02-12 20:52:12
+[Notice] 49.76.193.203:9999 Failed, <urlopen error timed out> 02-12 20:52:20
+[Notice] 114.226.245.23:9999 Failed, <urlopen error timed out> 02-12 20:52:28
+[Notice] 122.231.29.138:9999 Passed on [Target Baidu.txt] 02-12 20:52:29
+[Notice] 121.237.148.146:3000 Failed, <urlopen error timed out> 02-12 20:52:37
+[Notice] 39.137.95.71:80 Passed on [Target Baidu.txt] 02-12 20:52:39
+[Notice] 39.137.95.72:80 Passed on [Target Baidu.txt] 02-12 20:52:41
+[Notice] 113.87.202.229:8118 Passed on [Target Baidu.txt] 02-12 20:52:41
+[Notice] 124.205.11.245:8888 Passed on [Target Baidu.txt] 02-12 20:52:41
+[Notice] 114.223.181.159:8118 Failed, Remote end closed connection without response 02-12 20:52:41
+[Notice] 39.137.95.72:80 Failed, timed out 02-12 20:53:07
+[Notice] 113.87.202.229:8118 Failed, <urlopen error timed out> 02-12 20:53:15
+[Notice] 124.205.11.245:8888 Passed on [Target Baidu.txt] 02-12 20:53:15
+[Notice] 114.223.181.159:8118 Failed, Remote end closed connection without response 02-12 20:53:16
+[Notice] 117.88.176.222:3000 Passed on [Target Baidu.txt] 02-12 20:53:18
+[Notice] 118.114.84.216:8118 Failed, Remote end closed connection without response 02-12 20:53:18
+[Notice] 39.137.69.7:8080 Passed on [Target Baidu.txt] 02-12 20:53:19
+[Notice] 221.180.170.104:8080 Passed on [Target Baidu.txt] 02-12 20:53:19
+[Notice] 47.99.236.251:3128 Failed, <urlopen error timed out> 02-12 20:53:27
+[Notice] 114.226.244.69:9999 Failed, <urlopen error timed out> 02-12 20:53:35
+[Notice] 112.85.126.244:9999 Failed, <urlopen error timed out> 02-12 20:53:43
+[Notice] 122.193.231.37:9999 Failed, <urlopen error timed out> 02-12 20:53:51
+[Notice] 36.27.28.240:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:53:53
+[Notice] 115.216.43.75:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:53:55
+[Notice] 112.85.127.71:9999 Failed, <urlopen error timed out> 02-12 20:54:03
+[Notice] 220.176.46.77:9999 Failed, <urlopen error timed out> 02-12 20:54:11
+[Notice] 114.99.5.162:9999 Failed, <urlopen error timed out> 02-12 20:54:19
+[Notice] 218.60.8.83:3129 Failed, timed out 02-12 20:54:27
+[Notice] 122.228.19.7:3389 Failed, <urlopen error timed out> 02-12 20:54:35
+[Notice] 58.244.52.175:8080 Failed, <urlopen error timed out> 02-12 20:54:54
+[Notice] 112.250.107.37:53281 Failed, <urlopen error timed out> 02-12 20:55:12
+[Notice] 61.153.251.150:22222 Passed on [Target CD.txt] 02-12 20:55:17
+[Notice] 124.152.32.140:53281 Failed, <urlopen error timed out> 02-12 20:55:25
+[Notice] 116.196.85.150:3128 Passed on [Target CD.txt] 02-12 20:55:30
+[Notice] 218.2.226.42:80 Passed on [Target CD.txt] 02-12 20:55:37
+[Notice] 218.60.8.99:3129 Passed on [Target CD.txt] 02-12 20:55:38
+[Notice] 222.249.238.138:8080 Failed, <urlopen error timed out> 02-12 20:55:46
+[Notice] 122.228.19.1:3389 Failed, <urlopen error timed out> 02-12 20:55:54
+[Notice] 118.89.234.236:8787 Passed on [Target CD.txt] 02-12 20:55:57
+[Notice] 49.76.188.114:9999 Failed, <urlopen error timed out> 02-12 20:56:05
+[Notice] 123.149.136.161:9999 Failed, <urlopen error timed out> 02-12 20:56:13
+[Notice] 60.167.132.90:9999 Failed, <urlopen error timed out> 02-12 20:56:21
+[Notice] 114.226.245.208:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:56:23
+[Notice] 114.99.3.195:9999 Failed, <urlopen error timed out> 02-12 20:56:31
+[Notice] 49.76.193.203:9999 Failed, <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。> 02-12 20:56:34
+[Notice] 114.226.245.23:9999 Passed on [Target CD.txt] 02-12 20:56:37
+[Notice] 49.77.208.140:9999 Failed, <urlopen error timed out> 02-12 20:56:45
+[Notice] 122.228.19.92:3389 Failed, <urlopen error timed out> 02-12 20:56:53
+[Notice] 113.116.6.175:8118 Passed on [Target CD.txt] 02-12 20:56:58
+[Notice] 46.20.59.243:47497 Failed, <urlopen error timed out> 02-12 20:57:06
+[Notice] 139.9.113.234:443 Passed on [Target CD.txt] 02-12 20:57:08
+[Notice] 113.106.14.216:8080 Failed, <urlopen error timed out> 02-12 20:57:16
+[Notice] 191.240.152.131:80 Passed on [Target CD.txt] 02-12 20:57:20
+[Notice] 39.137.95.72:80 Passed on [Target CD.txt] 02-12 20:57:25
+[Notice] 113.87.202.229:8118 Failed, <urlopen error timed out> 02-12 20:57:33
+[Notice] 114.223.181.159:8118 Failed, Remote end closed connection without response 02-12 20:57:33
+[Notice] 159.203.10.55:8118 Failed, [WinError 10054] 远程主机强迫关闭了一个现有的连接。 02-12 20:57:36
+[Notice] 113.106.14.216:8080 Failed, <urlopen error timed out> 02-12 20:57:44
+[Notice] 39.137.95.72:80 Failed, timed out 02-12 20:57:58
+[Notice] 117.88.176.222:3000 Passed on [Target CD.txt] 02-12 20:57:59
+[Notice] 121.40.119.149:3128 Passed on [Target CD.txt] 02-12 20:58:04
+[Notice] 210.26.49.88:3128 Passed on [Target Baidu.txt] 02-12 21:20:11
+[Notice] 122.231.29.138:9999 Passed on [Target Baidu.txt] 02-12 21:20:20
+[Notice] 39.137.95.72:80 Passed on [Target Baidu.txt] 02-12 21:20:25
+[Notice] 60.191.11.246:3128 Failed, timed out 02-12 21:20:37
+[Notice] 69.175.71.162:80 Passed on [Target Baidu.txt] 02-12 21:20:37
+[Notice] 220.175.145.250:9999 Failed, timed out 02-12 21:20:45
+[Notice] 113.87.202.229:8118 Failed, Remote end closed connection without response 02-12 21:20:48
+[Notice] 221.180.170.104:8080 Passed on [Target Baidu.txt] 02-12 21:20:49
+[Notice] 122.228.19.9:3389 Failed, <urlopen error timed out> 02-12 21:20:57
+[Notice] 124.205.11.245:8888 Passed on [Target Baidu.txt] 02-12 21:20:58
+[Notice] 218.60.8.99:3129 Passed on [Target Baidu.txt] 02-12 21:20:59
+[Notice] 220.175.144.62:9999 Passed on [Target Baidu.txt] 02-12 21:20:59
+[Notice] 116.196.85.150:3128 Passed on [Target Baidu.txt] 02-12 21:21:02
+[Notice] 69.175.71.164:80 Passed on [Target Baidu.txt] 02-12 21:21:02
+[Notice] 123.139.56.238:9999 Failed, <urlopen error timed out> 02-12 21:21:10
+[Notice] 116.196.85.166:3128 Passed on [Target Baidu.txt] 02-12 21:21:14
+[Notice] 222.90.110.194:8080 Failed, <urlopen error timed out> 02-12 21:21:22
+[Notice] 117.88.176.222:3000 Passed on [Target Baidu.txt] 02-12 21:21:22
+[Notice] 39.137.69.7:8080 Passed on [Target Baidu.txt] 02-12 21:21:22
+[Notice] 218.60.8.83:3129 Failed, HTTP Error 503: Service Unavailable 02-12 21:21:28
+[Notice] 39.137.95.71:80 Passed on [Target Baidu.txt] 02-12 21:21:28
+[Notice] 118.89.234.236:8787 Passed on [Target Baidu.txt] 02-12 21:21:28
+[Notice] 113.140.1.82:53281 Failed, <urlopen error timed out> 02-12 21:21:36
+[Notice] 115.216.40.39:9999 Passed on [Target Baidu.txt] 02-12 21:21:38
+[Notice] 218.60.8.99:3129 Failed, timed out 02-12 21:21:46
+[Notice] 139.9.113.234:443 Passed on [Target CD.txt] 02-12 21:21:47
+[Notice] 113.116.6.175:8118 Failed, Remote end closed connection without response 02-12 21:21:47
+[Notice] 116.196.85.150:3128 Passed on [Target CD.txt] 02-12 21:21:49
+[Notice] 218.2.226.42:80 Failed, <urlopen error timed out> 02-12 21:21:57
+[Notice] 39.137.95.72:80 Failed, timed out 02-12 21:22:09
+[Notice] 117.88.176.222:3000 Passed on [Target CD.txt] 02-12 21:22:14
+[Notice] 191.240.152.131:80 Passed on [Target CD.txt] 02-12 21:22:18
+[Notice] 121.40.119.149:3128 Failed, timed out 02-12 21:22:26
+[Notice] 118.89.234.236:8787 Passed on [Target CD.txt] 02-12 21:22:29
+[Notice] 114.226.245.23:9999 Failed, <urlopen error timed out> 02-12 21:22:37
+[Notice] 61.153.251.150:22222 Passed on [Target CD.txt] 02-12 21:22:46
